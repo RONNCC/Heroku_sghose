@@ -1,0 +1,27 @@
+<html><head>
+<link href="../static/css/learnist.css" media="all" rel="stylesheet" type="text/css" />
+<script type="text/javascript">
+  
+var linkstr=""                                        
+var links = 
+    [
+      ['skimfeed','http://www.skimfeed.com' ],
+      ['Hacker News','http://hckrnews.com/' ],
+      ['Wired','www.wired.com' ],
+      ['Reddit',['www.reddit.com/r/funny','www.reddit.com/r/science', 'www.reddit.com/r/shittyaskscience']],
+      ['Dinosaur','www.dinosaur.com']
+    ];
+  
+  function urlize(a){return a.length>4 ? ( (a.substr(0,4)!="http" && a.substr(0,3)=="www") ? "http://"+a:a) : a;}
+  String.prototype.cap = function() {return this.charAt(0).toUpperCase() + this.slice(1);} 
+
+  linkstr+="<p><ul>";
+  for(var i = 0; i<links.length;i++){
+    linkstr+=(!Array.isArray(links[i][1]))?("<li><a href=\""+urlize(links[i][1])+"\">"+links[i][0].cap()+"</a></li>"):(links[i][1].length!=1)?"<li>"+links[i][0]+ "<ul>"+[""].concat(links[i][1]).reduce(function(p,m){return p+"<li><a href=\""+urlize(m)+"\">"+m+"</a></li>";})+"</ul></li>":"<br/>unparsable array:</br>>></br>"+">> "+links[i] + "<br/>>> ";}
+  linkstr+=("</ul></p>");
+  document.write(linkstr);
+</script>
+</head>
+<body>
+</body>
+</html>
