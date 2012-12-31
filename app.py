@@ -11,6 +11,9 @@ def hello():
 def dinosaur():
 	return render_template('dino.html')
 
+@app.route('/links')
+def links():
+	return render_template('links.html')
 
 #@app.route('/css/<path:fnc>')
 def css_static(fn):
