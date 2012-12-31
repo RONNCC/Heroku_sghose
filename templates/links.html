@@ -1,16 +1,47 @@
 <html><head>
 <link href="../static/css/learnist.css" media="all" rel="stylesheet" type="text/css" />
 <script type="text/javascript">
-  
+// yeah the styling in the array is sort of weird - but it looks nice :/   
 var linkstr=""                                        
 var links = 
     [
-      ['skimfeed','http://www.skimfeed.com' ],
-      ['Hacker News','http://hckrnews.com/' ],
-      ['Wired','www.wired.com' ],
-      ['Reddit',['www.reddit.com/r/funny','www.reddit.com/r/science', 'www.reddit.com/r/shittyaskscience']],
-      ['Dinosaur','www.dinosaur.com']
+        ['skimfeed','http://www.skimfeed.com' ],
+        ['Hacker News','http://hckrnews.com/' ],
+        ['Wired','www.wired.com' ],
+        ['Reddit',
+                [
+                    'www.reddit.com/r/funny',
+                    'www.reddit.com/r/science',
+                    'www.reddit.com/r/CompSci',
+                    'www.reddit.com/r/machinelearning',
+                ]
+        ],
+        ['Inbound','www.inbound.org'],
+        ['The Economist', 'www.economist.com'],
+        ['Tech Review', 'www.technologyreview.com'],
+        ['Google Reader', 'www.reader.google.com'],
+        ['XKCD', 'www.xkcd.com'],
+        ['The Oatmeal', 'www.theoatmeal.com'],
+        ['Techmeme', 'www.techmeme.com'],
+        ['Pinboard - Popular','http://pinboard.in/popular/'],
+        ['Quora','www.quora.com'],
+        ['NYTimes','www.nytimes.com'],
+        ['BBC','www.bbc.co.uk'],
+        ['Fox','www.foxnews.com'],
+        ['CNN','www.cnn.com'],
+        ['Stack Exchange', 'www.stackexchange.com'],
+        ['BGR','www.bgr.com'],
+        ['Engadget','www.engadget.com'],
+        ['The Next Web','www.thenextweb.com'],
+        
     ];
+
+
+
+
+
+
+
   
   function urlize(a){return a.length>4 ? ( (a.substr(0,4)!="http" && a.substr(0,3)=="www") ? "http://"+a:a) : a;}
   String.prototype.cap = function() {return this.charAt(0).toUpperCase() + this.slice(1);} 
