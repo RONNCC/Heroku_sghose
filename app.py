@@ -5,15 +5,11 @@ app = Flask(__name__)
 
 @app.route('/')
 def hello():
-	return render_template('hello.html')
+	return render_template('redirect.html')
 
 @app.route('/dino')
 def dinosaur():
 	return render_template('dino.html')
-
-@app.route('/links')
-def links():
-	return render_template('links.html')
 
 #@app.route('/css/<path:fnc>')
 def css_static(fn):
