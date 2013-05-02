@@ -3,26 +3,26 @@ from flask import Flask, render_template
 
 app = Flask(__name__)
 
+pages=dict([('/dino','dino.html')]
+
+for p in pages.keys():
+    app.route(p)(render_template('hello.html'))
+
 @app.route('/')
 def hello():
 	return render_template('hello.html')
-
-@app.route('/dino')
+@app.route('/dino2')
 def dinosaur():
 	return render_template('dino.html')
-
 @app.route('/activities')
 def act():
 	return render_template('activities.html')
-	
 @app.route('/additionalinfo')
 def addinfo():
 	return render_template('addinfo.html')
-
 @app.route('/resume')
 def resume():
     return render_template('resume.html')
-	
 @app.route('/mit')
 @app.route('/MIT')
 def MIT():
@@ -53,9 +53,6 @@ def static(fn):
 #@app.route('/js/<path:fnj>')
 def js_static(fn):
 	return send_from_directory(app.config['JS_STATIC'],fnj)
-
-
-
 @app.route('/temp/<name>')
 def temp(name=None):
 	return render_template('display.html',name=name)
