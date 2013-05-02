@@ -2,6 +2,7 @@
 Scrapes MAL for animedata given a URL starting link!
 No parallelization because currently Google App Engine doesn't have much in the way of free computing power :/ and I don't want to accidentally eat a ton of MAL's server resources
 """
+
 DEPTH = 20
 NODE_SIZE_SCALE=100
 Filename='MALgraph.gexf'
