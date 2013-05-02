@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en"><head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+  <title>Parse Structured Data using some JS Libraries</title>
+  <meta name="description" content="">
+  <meta name="author" content="Shomiron Ghose">
+  <meta name="robots" content="all">
+
+<script type="text/javascript">var _gaq=_gaq||[];_gaq.push(['_setAccount','UA-36442208-1']);_gaq.push(['_trackPageview']);(function(){var ga=document.createElement('script');ga.type='text/javascript';ga.async=true;ga.src=('https:'==document.location.protocol?'https://ssl':'http://www')+'.google-analytics.com/ga.js';var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(ga,s);})();</script>
+
+  <meta name="viewport" content="width=device-width">
+  <link href="http://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
+  <link rel="icon" type="image/png" href="favicon.ico">
+  <!--[if IE]><link rel="shortcut icon" type="image/x-icon" href="favicon.ico" /><![endif]-->
+
+  <style type="text/css" media="all">
+    body {
+      padding-top: 60px;
+      padding-bottom: 40px;
+    }
+  </style>
+  <link rel="stylesheet" href="/static/bootstrap.min.css">
+  <link rel="stylesheet" href="/static/bootstrap-responsive.min.css">
+  <link rel="stylesheet" href="/static/style.css">
+  <link rel="stylesheet" href="/static/prettify.css">
+
+  <script src="/static/prettify.js"></script>
+  <script src="/static/sigma.min.js"></script>
+
+</head>
+<body onload="prettyPrint();">
+  
+  <div class="navbar navbar-fixed-top">
+  <div class="navbar-inner">
+    <div class="container">
+      <a class="brand sigma-font" href="/">GraphVis</a>
+      <div class="nav-collapse">
+        <ul class="nav">
+          <li><a href="/">Home</a></li>
+          <li class="divider-vertical"></li>
+          <li><a href="http://github.com/RONNCC">Github</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+    
+  <div class="container">
+    <div class="row">
+  <h2 class="span12" id="post-title">Parse graph data / use custom events</h2>
+  
+  <div class="span12 sigma-parent" id="sigma-example-parent">
+    <div class="sigma-expand" id="sigma-example"><canvas style="position: absolute; " id="sigma_edges_1" class="sigma_edges_canvas" width="940px" height="500px"></canvas><canvas style="position: absolute; " id="sigma_nodes_1" class="sigma_nodes_canvas" width="940px" height="500px"></canvas><canvas style="position: absolute; " id="sigma_labels_1" class="sigma_labels_canvas" width="940px" height="500px"></canvas><canvas style="position: absolute; " id="sigma_hover_1" class="sigma_hover_canvas" width="940px" height="500px"></canvas><div style="position: absolute; " id="sigma_monitor_1" class="sigma_monitor_div" width="940px" height="500px"></div><canvas style="position: absolute; " id="sigma_mouse_1" class="sigma_mouse_canvas" width="940px" height="500px"></canvas></div>
+  </div>
+</div>
+
+<br>
+
+<div class="row">
+  <h4 class="span12">Description</h4>
+  <div class="span12">
+    <p>This example will load and display a GEXF encoded graph. It can handle a few other formats as well. When the users rolls the mouse over a node, it will make each edge grey, except the ones that are linked to the node. The user can also zoom in and out of the graph with the mouse trackweel</p>
+  </div>
+<p>
+Some things to do: buttons, limit queries so that I can run it actively, run some machine learning algorithms and graph analyis, start the collaborative filtering algorithms!
+</p>
+</div>
+
+<br>
+
+
+
+<script src="/static/sigma.parseGexf.js"></script><script type="text/javascript">function init() {
+  // Instanciate sigma.js and customize rendering :
+  var sigInst = sigma.init(document.getElementById('sigma-example')).drawingProperties({
+    defaultLabelColor: '#fff',
+    defaultLabelSize: 14,
+    defaultLabelBGColor: '#fff',
+    defaultLabelHoverColor: '#000',
+    labelThreshold: 6,
+    defaultEdgeType: 'curve'
+  }).graphProperties({
+    minNodeSize: 0.5,
+    maxNodeSize: 6,
+    minEdgeSize: 1,
+    maxEdgeSize: 1
+  }).mouseProperties({
+    maxRatio: 32
+  });
+
+  // Parse a GEXF encoded file to fill the graph
+  // (requires "sigma.parseGexf.js" to be included)
+  sigInst.parseGexf('/static/{{name}}');
+
+  // Bind events :
+  var greyColor = '#666';
+  sigInst.bind('overnodes',function(event){
+    var nodes = event.content;
+    var neighbors = {};
+    sigInst.iterEdges(function(e){
+      if(nodes.indexOf(e.source)<0 && nodes.indexOf(e.target)<0){
+        if(!e.attr['grey']){
+          e.attr['true_color'] = e.color;
+          e.color = greyColor;
+          e.attr['grey'] = 1;
+        }
+      }else{
+        e.color = e.attr['grey'] ? e.attr['true_color'] : e.color;
+        e.attr['grey'] = 0;
+
+        neighbors[e.source] = 1;
+        neighbors[e.target] = 1;
+      }
+    }).iterNodes(function(n){
+      if(!neighbors[n.id]){
+        if(!n.attr['grey']){
+          n.attr['true_color'] = n.color;
+          n.color = greyColor;
+          n.attr['grey'] = 1;
+        }
+      }else{
+        n.color = n.attr['grey'] ? n.attr['true_color'] : n.color;
+        n.attr['grey'] = 0;
+      }
+    }).draw(2,2,2);
+  }).bind('outnodes',function(){
+    sigInst.iterEdges(function(e){
+      e.color = e.attr['grey'] ? e.attr['true_color'] : e.color;
+      e.attr['grey'] = 0;
+    }).iterNodes(function(n){
+      n.color = n.attr['grey'] ? n.attr['true_color'] : n.color;
+      n.attr['grey'] = 0;
+    }).draw(2,2,2);
+  });
+
+  // Draw the graph :
+  sigInst.draw();
+}
+
+if (document.addEventListener) {
+  document.addEventListener("DOMContentLoaded", init, false);
+} else {
+  window.onload = init;
+}
+</script>
+
+<style type="text/css">
+  /* sigma.js context : */
+  .sigma-parent {
+    position: relative;
+    border-radius: 4px;
+    -moz-border-radius: 4px;
+    -webkit-border-radius: 4px;
+    background: #222;
+    height: 500px;
+  }
+  .sigma-expand {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+  }
+  .buttons-container{
+    padding-bottom: 8px;
+    padding-top: 12px;
+  }
+</style>
+
+  </div>
+
+
+</body></html>

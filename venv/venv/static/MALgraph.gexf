@@ -1,0 +1,2305 @@
+<?xml version="1.0" encoding="utf-8"?><gexf xmlns:ns0="http://www.gexf.net/1.2draft/viz" version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:viz="http://www.gexf.net/1.2draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="Mushi-Uta" label="Mushi-Uta">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Ookiku_Furikabutte" label="Ookiku_Furikabutte">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Jigoku_Shoujo" label="Jigoku_Shoujo">
+        <ns0:color a="0" b="208.752943933" g="172.611766666" r="113.58823856" />
+        <ns0:size value="101.801753492" />
+      </node>
+      <node id="Maria†Holic" label="Maria†Holic">
+        <ns0:color a="0" b="200.643140495" g="157.772550553" r="90.2941200063" />
+        <ns0:size value="102.714767611" />
+      </node>
+      <node id="Shingetsutan_Tsukihime" label="Shingetsutan_Tsukihime">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Rosario_+_Vampire" label="Rosario_+_Vampire">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Tsubasa_Chronicle" label="Tsubasa_Chronicle">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Kaze_no_Stigma" label="Kaze_no_Stigma">
+        <ns0:color a="0" b="190.505886197" g="139.223530412" r="61.1764718145" />
+        <ns0:size value="103.635970141" />
+      </node>
+      <node id="Elfen_Lied" label="Elfen_Lied">
+        <ns0:color a="0" b="190.505886197" g="139.223530412" r="61.1764718145" />
+        <ns0:size value="103.635970141" />
+      </node>
+      <node id="The_Skull_Man" label="The_Skull_Man">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Angel_Beats!" label="Angel_Beats!">
+        <ns0:color a="0" b="190.505886197" g="139.223530412" r="61.1764718145" />
+        <ns0:size value="103.635970141" />
+      </node>
+      <node id="Medaka_Box" label="Medaka_Box">
+        <ns0:color a="0" b="200.643140495" g="157.772550553" r="90.2941200063" />
+        <ns0:size value="102.714767611" />
+      </node>
+      <node id="Texhnolyze" label="Texhnolyze">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Blade" label="Blade">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Phantom:_Requiem_for_the_Phantom" label="Phantom:_Requiem_for_the_Phantom">
+        <ns0:color a="0" b="200.643140495" g="157.772550553" r="90.2941200063" />
+        <ns0:size value="102.714767611" />
+      </node>
+      <node id="Detroit_Metal_City" label="Detroit_Metal_City">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Ore_no_Imouto_ga_Konnani_Kawaii_Wake_ga_Nai" label="Ore_no_Imouto_ga_Konnani_Kawaii_Wake_ga_Nai">
+        <ns0:color a="0" b="208.752943933" g="172.611766666" r="113.58823856" />
+        <ns0:size value="101.801753492" />
+      </node>
+      <node id="Goshuushou-sama_Ninomiya-kun" label="Goshuushou-sama_Ninomiya-kun">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Devil_Hunter_Yohko" label="Devil_Hunter_Yohko">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Loveless" label="Loveless">
+        <ns0:color a="0" b="208.752943933" g="172.611766666" r="113.58823856" />
+        <ns0:size value="101.801753492" />
+      </node>
+      <node id="Deadman_Wonderland" label="Deadman_Wonderland">
+        <ns0:color a="0" b="173.082357824" g="136.96470657" r="55.2117655054" />
+        <ns0:size value="105.503234853" />
+      </node>
+      <node id="Lovely_Complex" label="Lovely_Complex">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Hime_Chen!_Otogi_Chikku_Idol_Lilpri" label="Hime_Chen!_Otogi_Chikku_Idol_Lilpri">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Claymore" label="Claymore">
+        <ns0:color a="0" b="173.082357824" g="136.96470657" r="55.2117655054" />
+        <ns0:size value="105.503234853" />
+      </node>
+      <node id="Nabari_no_Ou" label="Nabari_no_Ou">
+        <ns0:color a="0" b="200.643140495" g="157.772550553" r="90.2941200063" />
+        <ns0:size value="102.714767611" />
+      </node>
+      <node id="Naruto" label="Naruto">
+        <ns0:color a="0" b="190.505886197" g="139.223530412" r="61.1764718145" />
+        <ns0:size value="103.635970141" />
+      </node>
+      <node id="To_LOVE-Ru" label="To_LOVE-Ru">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="First_Squad:_The_Moment_of_Truth" label="First_Squad:_The_Moment_of_Truth">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Blood-C" label="Blood-C">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Shikabane_Hime:_Kuro" label="Shikabane_Hime:_Kuro">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Tono_to_Issho:_Ippunkan_Gekijou" label="Tono_to_Issho:_Ippunkan_Gekijou">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Ghost_in_the_Shell:_Stand_Alone_Complex" label="Ghost_in_the_Shell:_Stand_Alone_Complex">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Bakuman." label="Bakuman.">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="K" label="K">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Majin_Tantei_Nougami_Neuro" label="Majin_Tantei_Nougami_Neuro">
+        <ns0:color a="0" b="173.082357824" g="136.96470657" r="55.2117655054" />
+        <ns0:size value="105.503234853" />
+      </node>
+      <node id="Baka_to_Test_to_Shoukanjuu" label="Baka_to_Test_to_Shoukanjuu">
+        <ns0:color a="0" b="200.643140495" g="157.772550553" r="90.2941200063" />
+        <ns0:size value="102.714767611" />
+      </node>
+      <node id="Suzumiya_Haruhi_no_Yuuutsu" label="Suzumiya_Haruhi_no_Yuuutsu">
+        <ns0:color a="0" b="208.752943933" g="172.611766666" r="113.58823856" />
+        <ns0:size value="101.801753492" />
+      </node>
+      <node id="X-Men" label="X-Men">
+        <ns0:color a="0" b="208.752943933" g="172.611766666" r="113.58823856" />
+        <ns0:size value="101.801753492" />
+      </node>
+      <node id="InuYasha" label="InuYasha">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Accel_World" label="Accel_World">
+        <ns0:color a="0" b="208.752943933" g="172.611766666" r="113.58823856" />
+        <ns0:size value="101.801753492" />
+      </node>
+      <node id="Persona:_Trinity_Soul" label="Persona:_Trinity_Soul">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Itazura_na_Kiss" label="Itazura_na_Kiss">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Seikon_no_Qwaser" label="Seikon_no_Qwaser">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Seitokai_no_Ichizon" label="Seitokai_no_Ichizon">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Nogizaka_Haruka_no_Himitsu" label="Nogizaka_Haruka_no_Himitsu">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Innocent_Venus" label="Innocent_Venus">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Weiß_Kreuz" label="Weiß_Kreuz">
+        <ns0:color a="0" b="200.643140495" g="157.772550553" r="90.2941200063" />
+        <ns0:size value="102.714767611" />
+      </node>
+      <node id="Spiral:_Suiri_no_Kizuna" label="Spiral:_Suiri_no_Kizuna">
+        <ns0:color a="0" b="38.2941183597" g="36.5411772877" r="228.976472139" />
+        <ns0:size value="125.008842113" />
+      </node>
+      <node id="Black_Lagoon" label="Black_Lagoon">
+        <ns0:color a="0" b="190.505886197" g="139.223530412" r="61.1764718145" />
+        <ns0:size value="103.635970141" />
+      </node>
+      <node id="Oh!_Edo_Rocket" label="Oh!_Edo_Rocket">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Bakumatsu_Kikansetsu_Irohanihoheto" label="Bakumatsu_Kikansetsu_Irohanihoheto">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Tentai_Senshi_Sunred" label="Tentai_Senshi_Sunred">
+        <ns0:color a="0" b="208.752943933" g="172.611766666" r="113.58823856" />
+        <ns0:size value="101.801753492" />
+      </node>
+      <node id="Chihayafuru" label="Chihayafuru">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="MM!" label="MM!">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Ultraviolet:_Code_044" label="Ultraviolet:_Code_044">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Red_Garden" label="Red_Garden">
+        <ns0:color a="0" b="208.752943933" g="172.611766666" r="113.58823856" />
+        <ns0:size value="101.801753492" />
+      </node>
+      <node id="Sengoku_Basara" label="Sengoku_Basara">
+        <ns0:color a="0" b="208.752943933" g="172.611766666" r="113.58823856" />
+        <ns0:size value="101.801753492" />
+      </node>
+      <node id="Basilisk:_Kouga_Ninpou_Chou" label="Basilisk:_Kouga_Ninpou_Chou">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Kobato." label="Kobato.">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Chuu_Bra!!" label="Chuu_Bra!!">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Soredemo_Machi_wa_Mawatteiru" label="Soredemo_Machi_wa_Mawatteiru">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Spice_and_Wolf" label="Spice_and_Wolf">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Ayakashi" label="Ayakashi">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="GetBackers" label="GetBackers">
+        <ns0:color a="0" b="35.4862748086" g="40.8823536038" r="229.345099568" />
+        <ns0:size value="126.129990166" />
+      </node>
+      <node id="Wolfs_Rain" label="Wolfs_Rain">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Kami_nomi_zo_Shiru_Sekai" label="Kami_nomi_zo_Shiru_Sekai">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Zoku_Sayonara_Zetsubou_Sensei" label="Zoku_Sayonara_Zetsubou_Sensei">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Shinrei_Tantei_Yakumo" label="Shinrei_Tantei_Yakumo">
+        <ns0:color a="0" b="208.752943933" g="172.611766666" r="113.58823856" />
+        <ns0:size value="101.801753492" />
+      </node>
+      <node id="Violence_Jack" label="Violence_Jack">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Naruto:_Shippuuden" label="Naruto:_Shippuuden">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Ikkitousen" label="Ikkitousen">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Special_A" label="Special_A">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Seitokai_Yakuindomo" label="Seitokai_Yakuindomo">
+        <ns0:color a="0" b="208.752943933" g="172.611766666" r="113.58823856" />
+        <ns0:size value="101.801753492" />
+      </node>
+      <node id="DearS" label="DearS">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="11eyes" label="11eyes">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Sacred_Seven" label="Sacred_Seven">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Hyouka" label="Hyouka">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Spectral_Force" label="Spectral_Force">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Beelzebub" label="Beelzebub">
+        <ns0:color a="0" b="200.643140495" g="157.772550553" r="90.2941200063" />
+        <ns0:size value="102.714767611" />
+      </node>
+      <node id="Hakushaku_to_Yousei" label="Hakushaku_to_Yousei">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Devilman_Lady" label="Devilman_Lady">
+        <ns0:color a="0" b="208.752943933" g="172.611766666" r="113.58823856" />
+        <ns0:size value="101.801753492" />
+      </node>
+      <node id="Patalliro_Saiyuki!" label="Patalliro_Saiyuki!">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Yu-Gi-Oh!" label="Yu-Gi-Oh!">
+        <ns0:color a="0" b="208.752943933" g="172.611766666" r="113.58823856" />
+        <ns0:size value="101.801753492" />
+      </node>
+      <node id="Ano_Natsu_de_Matteru" label="Ano_Natsu_de_Matteru">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Shugo_Chara!" label="Shugo_Chara!">
+        <ns0:color a="0" b="208.752943933" g="172.611766666" r="113.58823856" />
+        <ns0:size value="101.801753492" />
+      </node>
+      <node id="Dororon_Enma-kun_Meeramera" label="Dororon_Enma-kun_Meeramera">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Hidan_no_Aria" label="Hidan_no_Aria">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Jigoku_Shoujo_Futakomori" label="Jigoku_Shoujo_Futakomori">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Pandora_Hearts" label="Pandora_Hearts">
+        <ns0:color a="0" b="190.505886197" g="139.223530412" r="61.1764718145" />
+        <ns0:size value="103.635970141" />
+      </node>
+      <node id="Needless" label="Needless">
+        <ns0:color a="0" b="200.643140495" g="157.772550553" r="90.2941200063" />
+        <ns0:size value="102.714767611" />
+      </node>
+      <node id="Tatakau_Shisho:_The_Book_of_Bantorra" label="Tatakau_Shisho:_The_Book_of_Bantorra">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Toriko" label="Toriko">
+        <ns0:color a="0" b="208.752943933" g="172.611766666" r="113.58823856" />
+        <ns0:size value="101.801753492" />
+      </node>
+      <node id="Hayate_no_Gotoku!" label="Hayate_no_Gotoku!">
+        <ns0:color a="0" b="200.643140495" g="157.772550553" r="90.2941200063" />
+        <ns0:size value="102.714767611" />
+      </node>
+      <node id="Mitsudomoe" label="Mitsudomoe">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Another" label="Another">
+        <ns0:color a="0" b="208.752943933" g="172.611766666" r="113.58823856" />
+        <ns0:size value="101.801753492" />
+      </node>
+      <node id="Kemonozume" label="Kemonozume">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="UN-GO" label="UN-GO">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Star_Ocean_EX" label="Star_Ocean_EX">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Venus_Versus_Virus" label="Venus_Versus_Virus">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Higashi_no_Eden" label="Higashi_no_Eden">
+        <ns0:color a="0" b="190.505886197" g="139.223530412" r="61.1764718145" />
+        <ns0:size value="103.635970141" />
+      </node>
+      <node id="Noein:_Mou_Hitori_no_Kimi_e" label="Noein:_Mou_Hitori_no_Kimi_e">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Kono_Naka_ni_Hitori_Imouto_ga_Iru!" label="Kono_Naka_ni_Hitori_Imouto_ga_Iru!">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Ga-Rei:_Zero" label="Ga-Rei:_Zero">
+        <ns0:color a="0" b="200.643140495" g="157.772550553" r="90.2941200063" />
+        <ns0:size value="102.714767611" />
+      </node>
+      <node id="Brave_Story" label="Brave_Story">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Zettai_Karen_Children" label="Zettai_Karen_Children">
+        <ns0:color a="0" b="208.752943933" g="172.611766666" r="113.58823856" />
+        <ns0:size value="101.801753492" />
+      </node>
+      <node id="Toaru_Kagaku_no_Railgun" label="Toaru_Kagaku_no_Railgun">
+        <ns0:color a="0" b="208.752943933" g="172.611766666" r="113.58823856" />
+        <ns0:size value="101.801753492" />
+      </node>
+      <node id="Tenshi_na_Konamaiki" label="Tenshi_na_Konamaiki">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Kurokami" label="Kurokami">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Wild_Arms:_Twilight_Venom" label="Wild_Arms:_Twilight_Venom">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Durarara!!" label="Durarara!!">
+        <ns0:color a="0" b="190.505886197" g="139.223530412" r="61.1764718145" />
+        <ns0:size value="103.635970141" />
+      </node>
+      <node id="Trinity_Blood" label="Trinity_Blood">
+        <ns0:color a="0" b="200.643140495" g="157.772550553" r="90.2941200063" />
+        <ns0:size value="102.714767611" />
+      </node>
+      <node id="Tanken_Driland" label="Tanken_Driland">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Kurozuka" label="Kurozuka">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Hajime_no_Ippo" label="Hajime_no_Ippo">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Kaiji" label="Kaiji">
+        <ns0:color a="0" b="71.2901967019" g="112.058825687" r="240.560785174" />
+        <ns0:size value="128.402541669" />
+      </node>
+      <node id="Gosick" label="Gosick">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Kyou_Koi_wo_Hajimemasu" label="Kyou_Koi_wo_Hajimemasu">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="He_is_My_Master" label="He_is_My_Master">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Shigofumi" label="Shigofumi">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Groove_Adventure_Rave" label="Groove_Adventure_Rave">
+        <ns0:color a="0" b="208.752943933" g="172.611766666" r="113.58823856" />
+        <ns0:size value="101.801753492" />
+      </node>
+      <node id="Haiyore!_Nyaruko-san" label="Haiyore!_Nyaruko-san">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Wolverine" label="Wolverine">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Arakawa_Under_the_Bridge_x_Bridge" label="Arakawa_Under_the_Bridge_x_Bridge">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Suzuka" label="Suzuka">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Full_Metal_Panic!" label="Full_Metal_Panic!">
+        <ns0:color a="0" b="208.752943933" g="172.611766666" r="113.58823856" />
+        <ns0:size value="101.801753492" />
+      </node>
+      <node id="Kaichou_wa_Maid-sama!" label="Kaichou_wa_Maid-sama!">
+        <ns0:color a="0" b="40.0000014156" g="89.0000022948" r="177.000004649" />
+        <ns0:size value="178.667641554" />
+      </node>
+      <node id="Rurouni_Kenshin" label="Rurouni_Kenshin">
+        <ns0:color a="0" b="200.643140495" g="157.772550553" r="90.2941200063" />
+        <ns0:size value="102.714767611" />
+      </node>
+      <node id="Phi_Brain:_Kami_no_Puzzle_2nd_Season" label="Phi_Brain:_Kami_no_Puzzle_2nd_Season">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Hakuouki" label="Hakuouki">
+        <ns0:color a="0" b="200.643140495" g="157.772550553" r="90.2941200063" />
+        <ns0:size value="102.714767611" />
+      </node>
+      <node id="Persona_4_The_Animation" label="Persona_4_The_Animation">
+        <ns0:color a="0" b="208.752943933" g="172.611766666" r="113.58823856" />
+        <ns0:size value="101.801753492" />
+      </node>
+      <node id="Dragon_Ball" label="Dragon_Ball">
+        <ns0:color a="0" b="208.752943933" g="172.611766666" r="113.58823856" />
+        <ns0:size value="101.801753492" />
+      </node>
+      <node id="Sci-fi_Harry" label="Sci-fi_Harry">
+        <ns0:color a="0" b="200.643140495" g="157.772550553" r="90.2941200063" />
+        <ns0:size value="102.714767611" />
+      </node>
+      <node id="One_Outs" label="One_Outs">
+        <ns0:color a="0" b="208.752943933" g="172.611766666" r="113.58823856" />
+        <ns0:size value="101.801753492" />
+      </node>
+      <node id="City_Hunter" label="City_Hunter">
+        <ns0:color a="0" b="208.752943933" g="172.611766666" r="113.58823856" />
+        <ns0:size value="101.801753492" />
+      </node>
+      <node id="Jormungand" label="Jormungand">
+        <ns0:color a="0" b="200.643140495" g="157.772550553" r="90.2941200063" />
+        <ns0:size value="102.714767611" />
+      </node>
+      <node id="Samurai_Champloo" label="Samurai_Champloo">
+        <ns0:color a="0" b="200.643140495" g="157.772550553" r="90.2941200063" />
+        <ns0:size value="102.714767611" />
+      </node>
+      <node id="Towa_no_Quon_1:_Utakata_no_Kaben" label="Towa_no_Quon_1:_Utakata_no_Kaben">
+        <ns0:color a="0" b="208.752943933" g="172.611766666" r="113.58823856" />
+        <ns0:size value="101.801753492" />
+      </node>
+      <node id="Cromartie_High_School" label="Cromartie_High_School">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Phi_Brain:_Kami_no_Puzzle" label="Phi_Brain:_Kami_no_Puzzle">
+        <ns0:color a="0" b="208.752943933" g="172.611766666" r="113.58823856" />
+        <ns0:size value="101.801753492" />
+      </node>
+      <node id="Rozen_Maiden" label="Rozen_Maiden">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Hellsing" label="Hellsing">
+        <ns0:color a="0" b="208.752943933" g="172.611766666" r="113.58823856" />
+        <ns0:size value="101.801753492" />
+      </node>
+      <node id="Hikaru_no_Go" label="Hikaru_no_Go">
+        <ns0:color a="0" b="208.752943933" g="172.611766666" r="113.58823856" />
+        <ns0:size value="101.801753492" />
+      </node>
+      <node id="Isekai_no_Seikishi_Monogatari" label="Isekai_no_Seikishi_Monogatari">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Heroman" label="Heroman">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Gad_Guard" label="Gad_Guard">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Soul_Hunter" label="Soul_Hunter">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Hyakka_Ryouran:_Samurai_Girls" label="Hyakka_Ryouran:_Samurai_Girls">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Monkey_Typhoon" label="Monkey_Typhoon">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Witch_Hunter_Robin" label="Witch_Hunter_Robin">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Ghost_Hunt" label="Ghost_Hunt">
+        <ns0:color a="0" b="208.752943933" g="172.611766666" r="113.58823856" />
+        <ns0:size value="101.801753492" />
+      </node>
+      <node id="Binbougami_ga!" label="Binbougami_ga!">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Gakuen_Heaven" label="Gakuen_Heaven">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Sayonara_Zetsubou_Sensei" label="Sayonara_Zetsubou_Sensei">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Saiyuki" label="Saiyuki">
+        <ns0:color a="0" b="35.4862748086" g="40.8823536038" r="229.345099568" />
+        <ns0:size value="126.129990166" />
+      </node>
+      <node id="Shikabane_Hime:_Aka" label="Shikabane_Hime:_Aka">
+        <ns0:color a="0" b="208.752943933" g="172.611766666" r="113.58823856" />
+        <ns0:size value="101.801753492" />
+      </node>
+      <node id="Shonan_Junai_Gumi" label="Shonan_Junai_Gumi">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Lucky_☆_Star" label="Lucky_☆_Star">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Guilty_Crown" label="Guilty_Crown">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Chobits" label="Chobits">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Steins;Gate" label="Steins;Gate">
+        <ns0:color a="0" b="190.505886197" g="139.223530412" r="61.1764718145" />
+        <ns0:size value="103.635970141" />
+      </node>
+      <node id="Black_Blood_Brothers" label="Black_Blood_Brothers">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Arakawa_Under_the_Bridge" label="Arakawa_Under_the_Bridge">
+        <ns0:color a="0" b="200.643140495" g="157.772550553" r="90.2941200063" />
+        <ns0:size value="102.714767611" />
+      </node>
+      <node id="No.6" label="No.6">
+        <ns0:color a="0" b="200.643140495" g="157.772550553" r="90.2941200063" />
+        <ns0:size value="102.714767611" />
+      </node>
+      <node id="School_Rumble" label="School_Rumble">
+        <ns0:color a="0" b="208.752943933" g="172.611766666" r="113.58823856" />
+        <ns0:size value="101.801753492" />
+      </node>
+      <node id="D.Gray-man" label="D.Gray-man">
+        <ns0:color a="0" b="200.643140495" g="157.772550553" r="90.2941200063" />
+        <ns0:size value="102.714767611" />
+      </node>
+      <node id="Busou_Renkin" label="Busou_Renkin">
+        <ns0:color a="0" b="200.643140495" g="157.772550553" r="90.2941200063" />
+        <ns0:size value="102.714767611" />
+      </node>
+      <node id="Prince_of_Tennis:_The_Two_Samurai_The_First_Game" label="Prince_of_Tennis:_The_Two_Samurai_The_First_Game">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Scryed" label="Scryed">
+        <ns0:color a="0" b="208.752943933" g="172.611766666" r="113.58823856" />
+        <ns0:size value="101.801753492" />
+      </node>
+      <node id="Kodomo_no_Omocha" label="Kodomo_no_Omocha">
+        <ns0:color a="0" b="208.752943933" g="172.611766666" r="113.58823856" />
+        <ns0:size value="101.801753492" />
+      </node>
+      <node id="Fruits_Basket" label="Fruits_Basket">
+        <ns0:color a="0" b="200.643140495" g="157.772550553" r="90.2941200063" />
+        <ns0:size value="102.714767611" />
+      </node>
+      <node id="Zetman" label="Zetman">
+        <ns0:color a="0" b="200.643140495" g="157.772550553" r="90.2941200063" />
+        <ns0:size value="102.714767611" />
+      </node>
+      <node id="Umineko_no_Naku_Koro_ni" label="Umineko_no_Naku_Koro_ni">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Kyouran_Kazoku_Nikki" label="Kyouran_Kazoku_Nikki">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Rainbow:_Nisha_Rokubou_no_Shichinin" label="Rainbow:_Nisha_Rokubou_no_Shichinin">
+        <ns0:color a="0" b="208.752943933" g="172.611766666" r="113.58823856" />
+        <ns0:size value="101.801753492" />
+      </node>
+      <node id="Aishiteruze_Baby" label="Aishiteruze_Baby">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Tantei_Gakuen_Q" label="Tantei_Gakuen_Q">
+        <ns0:color a="0" b="208.752943933" g="172.611766666" r="113.58823856" />
+        <ns0:size value="101.801753492" />
+      </node>
+      <node id="Toradora!" label="Toradora!">
+        <ns0:color a="0" b="208.752943933" g="172.611766666" r="113.58823856" />
+        <ns0:size value="101.801753492" />
+      </node>
+      <node id="NightWalker" label="NightWalker">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Darker_than_Black:_Kuro_no_Keiyakusha" label="Darker_than_Black:_Kuro_no_Keiyakusha">
+        <ns0:color a="0" b="40.0000014156" g="89.0000022948" r="177.000004649" />
+        <ns0:size value="271.828182846" />
+      </node>
+      <node id="Solty_Rei" label="Solty_Rei">
+        <ns0:color a="0" b="208.752943933" g="172.611766666" r="113.58823856" />
+        <ns0:size value="101.801753492" />
+      </node>
+      <node id="Noir" label="Noir">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Gakuen_Alice" label="Gakuen_Alice">
+        <ns0:color a="0" b="200.643140495" g="157.772550553" r="90.2941200063" />
+        <ns0:size value="102.714767611" />
+      </node>
+      <node id="Cowboy_Bebop" label="Cowboy_Bebop">
+        <ns0:color a="0" b="182.396082759" g="124.384314299" r="37.8823532611" />
+        <ns0:size value="104.565434523" />
+      </node>
+      <node id="Druaga_no_Tou:_The_Aegis_of_Uruk" label="Druaga_no_Tou:_The_Aegis_of_Uruk">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Flame_of_Recca" label="Flame_of_Recca">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Level_E" label="Level_E">
+        <ns0:color a="0" b="208.752943933" g="172.611766666" r="113.58823856" />
+        <ns0:size value="101.801753492" />
+      </node>
+      <node id="Irresponsible_Captain_Tylor" label="Irresponsible_Captain_Tylor">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Shigurui" label="Shigurui">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Angel_Heart" label="Angel_Heart">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Qin_Shi_Ming_Yue" label="Qin_Shi_Ming_Yue">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Mayo_Chiki!" label="Mayo_Chiki!">
+        <ns0:color a="0" b="208.752943933" g="172.611766666" r="113.58823856" />
+        <ns0:size value="101.801753492" />
+      </node>
+      <node id="Ginban_Kaleidoscope" label="Ginban_Kaleidoscope">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Spriggan" label="Spriggan">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Slayers" label="Slayers">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="R.O.D_OVA" label="R.O.D_OVA">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Mahou_Senshi_Louie" label="Mahou_Senshi_Louie">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Inu_x_Boku_SS" label="Inu_x_Boku_SS">
+        <ns0:color a="0" b="208.752943933" g="172.611766666" r="113.58823856" />
+        <ns0:size value="101.801753492" />
+      </node>
+      <node id="Gun_x_Sword" label="Gun_x_Sword">
+        <ns0:color a="0" b="208.752943933" g="172.611766666" r="113.58823856" />
+        <ns0:size value="101.801753492" />
+      </node>
+      <node id="Kimi_ni_Todoke_2nd_Season" label="Kimi_ni_Todoke_2nd_Season">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Neon_Genesis_Evangelion" label="Neon_Genesis_Evangelion">
+        <ns0:color a="0" b="208.752943933" g="172.611766666" r="113.58823856" />
+        <ns0:size value="101.801753492" />
+      </node>
+      <node id="Arcana_Famiglia" label="Arcana_Famiglia">
+        <ns0:color a="0" b="208.752943933" g="172.611766666" r="113.58823856" />
+        <ns0:size value="101.801753492" />
+      </node>
+      <node id="Seikimatsu_Occult_Gakuin" label="Seikimatsu_Occult_Gakuin">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Tono_to_Issho" label="Tono_to_Issho">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Eureka_Seven" label="Eureka_Seven">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Black_Cat" label="Black_Cat">
+        <ns0:color a="0" b="153.337260962" g="189.572549075" r="204.74902004" />
+        <ns0:size value="154.883029863" />
+      </node>
+      <node id="Fairy_Tail" label="Fairy_Tail">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Gyo" label="Gyo">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Saraiya_Goyou" label="Saraiya_Goyou">
+        <ns0:color a="0" b="208.752943933" g="172.611766666" r="113.58823856" />
+        <ns0:size value="101.801753492" />
+      </node>
+      <node id="Those_Who_Hunt_Elves_II" label="Those_Who_Hunt_Elves_II">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Mardock_Scramble:_The_First_Compression" label="Mardock_Scramble:_The_First_Compression">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Supernatural_The_Animation" label="Supernatural_The_Animation">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="FLCL" label="FLCL">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Kakurenbo" label="Kakurenbo">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Kikoushi_Enma" label="Kikoushi_Enma">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Keroro_Gunsou" label="Keroro_Gunsou">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Batman:_Gotham_Knight" label="Batman:_Gotham_Knight">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="X" label="X">
+        <ns0:color a="0" b="200.643140495" g="157.772550553" r="90.2941200063" />
+        <ns0:size value="102.714767611" />
+      </node>
+      <node id="Hayate_no_Gotoku!!" label="Hayate_no_Gotoku!!">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Skip_Beat!" label="Skip_Beat!">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Akagi" label="Akagi">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Druaga_no_Tou:_The_Sword_of_Uruk" label="Druaga_no_Tou:_The_Sword_of_Uruk">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Uchuu_Kyoudai" label="Uchuu_Kyoudai">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Higurashi_no_Naku_Koro_ni" label="Higurashi_no_Naku_Koro_ni">
+        <ns0:color a="0" b="208.752943933" g="172.611766666" r="113.58823856" />
+        <ns0:size value="101.801753492" />
+      </node>
+      <node id="07-Ghost" label="07-Ghost">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Otogi-jushi_Akazukin" label="Otogi-jushi_Akazukin">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Mouretsu_Pirates" label="Mouretsu_Pirates">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Blue_Gender" label="Blue_Gender">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Gunslinger_Girl" label="Gunslinger_Girl">
+        <ns0:color a="0" b="208.752943933" g="172.611766666" r="113.58823856" />
+        <ns0:size value="101.801753492" />
+      </node>
+      <node id="Shiritsu_Araiso_Koutougakkou_Seitokai_Shikkoubu" label="Shiritsu_Araiso_Koutougakkou_Seitokai_Shikkoubu">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Es_Otherwise" label="Es_Otherwise">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Kiddy_Grade" label="Kiddy_Grade">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Mamoru-kun_ni_Megami_no_Shukufuku_wo!" label="Mamoru-kun_ni_Megami_no_Shukufuku_wo!">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Bleach" label="Bleach">
+        <ns0:color a="0" b="173.082357824" g="136.96470657" r="55.2117655054" />
+        <ns0:size value="105.503234853" />
+      </node>
+      <node id="Dr._Slump:_Arale-chan" label="Dr._Slump:_Arale-chan">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Tokko" label="Tokko">
+        <ns0:color a="0" b="208.752943933" g="172.611766666" r="113.58823856" />
+        <ns0:size value="101.801753492" />
+      </node>
+      <node id="Welcome_to_the_NHK!" label="Welcome_to_the_NHK!">
+        <ns0:color a="0" b="208.752943933" g="172.611766666" r="113.58823856" />
+        <ns0:size value="101.801753492" />
+      </node>
+      <node id="Junjou_Romantica" label="Junjou_Romantica">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="C" label="C">
+        <ns0:color a="0" b="208.752943933" g="172.611766666" r="113.58823856" />
+        <ns0:size value="101.801753492" />
+      </node>
+      <node id="Final_Fantasy_VII:_Advent_Children" label="Final_Fantasy_VII:_Advent_Children">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Chrno_Crusade" label="Chrno_Crusade">
+        <ns0:color a="0" b="208.752943933" g="172.611766666" r="113.58823856" />
+        <ns0:size value="101.801753492" />
+      </node>
+      <node id="Code_Geass:_Hangyaku_no_Lelouch_R2" label="Code_Geass:_Hangyaku_no_Lelouch_R2">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Hunter_x_Hunter" label="Hunter_x_Hunter">
+        <ns0:color a="0" b="145.184315383" g="161.600003123" r="219.043139398" />
+        <ns0:size value="141.65357606" />
+      </node>
+      <node id="Bounen_no_Xamdou" label="Bounen_no_Xamdou">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Dantalian_no_Shoka" label="Dantalian_no_Shoka">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="SKET_Dance" label="SKET_Dance">
+        <ns0:color a="0" b="200.643140495" g="157.772550553" r="90.2941200063" />
+        <ns0:size value="102.714767611" />
+      </node>
+      <node id="Bokura_ga_Ita" label="Bokura_ga_Ita">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Samurai_Deeper_Kyo" label="Samurai_Deeper_Kyo">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Otome_Youkai_Zakuro" label="Otome_Youkai_Zakuro">
+        <ns0:color a="0" b="208.752943933" g="172.611766666" r="113.58823856" />
+        <ns0:size value="101.801753492" />
+      </node>
+      <node id="Historys_Strongest_Disciple_Kenichi" label="Historys_Strongest_Disciple_Kenichi">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="The_Law_of_Ueki" label="The_Law_of_Ueki">
+        <ns0:color a="0" b="208.752943933" g="172.611766666" r="113.58823856" />
+        <ns0:size value="101.801753492" />
+      </node>
+      <node id="Ghost_Hound" label="Ghost_Hound">
+        <ns0:color a="0" b="208.752943933" g="172.611766666" r="113.58823856" />
+        <ns0:size value="101.801753492" />
+      </node>
+      <node id="King_of_Bandit_Jing" label="King_of_Bandit_Jing">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Asu_no_Yoichi!" label="Asu_no_Yoichi!">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="The_Big_O" label="The_Big_O">
+        <ns0:color a="0" b="208.752943933" g="172.611766666" r="113.58823856" />
+        <ns0:size value="101.801753492" />
+      </node>
+      <node id="Shakugan_no_Shana" label="Shakugan_no_Shana">
+        <ns0:color a="0" b="200.643140495" g="157.772550553" r="90.2941200063" />
+        <ns0:size value="102.714767611" />
+      </node>
+      <node id="Hellsing_Ultimate" label="Hellsing_Ultimate">
+        <ns0:color a="0" b="200.643140495" g="157.772550553" r="90.2941200063" />
+        <ns0:size value="102.714767611" />
+      </node>
+      <node id="Yondemasu_yo_Azazel-san._(TV)" label="Yondemasu_yo_Azazel-san._(TV)">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Trigun" label="Trigun">
+        <ns0:color a="0" b="200.643140495" g="157.772550553" r="90.2941200063" />
+        <ns0:size value="102.714767611" />
+      </node>
+      <node id="Mnemosyne:_Mnemosyne_no_Musume-tachi" label="Mnemosyne:_Mnemosyne_no_Musume-tachi">
+        <ns0:color a="0" b="182.396082759" g="124.384314299" r="37.8823532611" />
+        <ns0:size value="104.565434523" />
+      </node>
+      <node id="Kareshi_Kanojo_no_Jijou" label="Kareshi_Kanojo_no_Jijou">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Casshern_Sins" label="Casshern_Sins">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="K-On!" label="K-On!">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Tengen_Toppa_Gurren_Lagann" label="Tengen_Toppa_Gurren_Lagann">
+        <ns0:color a="0" b="200.643140495" g="157.772550553" r="90.2941200063" />
+        <ns0:size value="102.714767611" />
+      </node>
+      <node id="Tonari_no_Kaibutsu-kun" label="Tonari_no_Kaibutsu-kun">
+        <ns0:color a="0" b="208.752943933" g="172.611766666" r="113.58823856" />
+        <ns0:size value="101.801753492" />
+      </node>
+      <node id="Magi" label="Magi">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Mushrambo" label="Mushrambo">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Death_Note" label="Death_Note">
+        <ns0:color a="0" b="156.776476443" g="176.952942431" r="112.282355502" />
+        <ns0:size value="107.404143072" />
+      </node>
+      <node id="Peace_Maker_Kurogane" label="Peace_Maker_Kurogane">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Blood+" label="Blood+">
+        <ns0:color a="0" b="208.752943933" g="172.611766666" r="113.58823856" />
+        <ns0:size value="101.801753492" />
+      </node>
+      <node id="Shuffle!" label="Shuffle!">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Code:Breaker" label="Code:Breaker">
+        <ns0:color a="0" b="200.643140495" g="157.772550553" r="90.2941200063" />
+        <ns0:size value="102.714767611" />
+      </node>
+      <node id="El_Cazador_de_la_Bruja" label="El_Cazador_de_la_Bruja">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Night_Head_Genesis" label="Night_Head_Genesis">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Switch" label="Switch">
+        <ns0:color a="0" b="182.396082759" g="124.384314299" r="37.8823532611" />
+        <ns0:size value="104.565434523" />
+      </node>
+      <node id="Vampire_Knight" label="Vampire_Knight">
+        <ns0:color a="0" b="200.643140495" g="157.772550553" r="90.2941200063" />
+        <ns0:size value="102.714767611" />
+      </node>
+      <node id="Senkou_no_Night_Raid" label="Senkou_no_Night_Raid">
+        <ns0:color a="0" b="208.752943933" g="172.611766666" r="113.58823856" />
+        <ns0:size value="101.801753492" />
+      </node>
+      <node id="Muteki_Kanban_Musume" label="Muteki_Kanban_Musume">
+        <ns0:color a="0" b="208.752943933" g="172.611766666" r="113.58823856" />
+        <ns0:size value="101.801753492" />
+      </node>
+      <node id="Matantei_Loki_Ragnarok" label="Matantei_Loki_Ragnarok">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Code_Geass:_Hangyaku_no_Lelouch" label="Code_Geass:_Hangyaku_no_Lelouch">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Peach_Girl" label="Peach_Girl">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Maria-sama_ga_Miteru" label="Maria-sama_ga_Miteru">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="HeatGuy_J" label="HeatGuy_J">
+        <ns0:color a="0" b="208.752943933" g="172.611766666" r="113.58823856" />
+        <ns0:size value="101.801753492" />
+      </node>
+      <node id="Canaan" label="Canaan">
+        <ns0:color a="0" b="208.752943933" g="172.611766666" r="113.58823856" />
+        <ns0:size value="101.801753492" />
+      </node>
+      <node id="Gokujou!!_Mecha_Mote_Iinchou" label="Gokujou!!_Mecha_Mote_Iinchou">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Yamato_Nadeshiko_Shichi_Henge" label="Yamato_Nadeshiko_Shichi_Henge">
+        <ns0:color a="0" b="208.752943933" g="172.611766666" r="113.58823856" />
+        <ns0:size value="101.801753492" />
+      </node>
+      <node id="Mars_of_Destruction" label="Mars_of_Destruction">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Ixion_Saga_DT" label="Ixion_Saga_DT">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Girls_Bravo:_First_Season" label="Girls_Bravo:_First_Season">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Hunter_x_Hunter_(2011)" label="Hunter_x_Hunter_(2011)">
+        <ns0:color a="0" b="208.752943933" g="172.611766666" r="113.58823856" />
+        <ns0:size value="101.801753492" />
+      </node>
+      <node id="Uragiri_wa_Boku_no_Namae_wo_Shitteiru" label="Uragiri_wa_Boku_no_Namae_wo_Shitteiru">
+        <ns0:color a="0" b="208.752943933" g="172.611766666" r="113.58823856" />
+        <ns0:size value="101.801753492" />
+      </node>
+      <node id="Dai-Guard" label="Dai-Guard">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Kuroshitsuji" label="Kuroshitsuji">
+        <ns0:color a="0" b="190.505886197" g="139.223530412" r="61.1764718145" />
+        <ns0:size value="103.635970141" />
+      </node>
+      <node id="Tokyo_Majin_Gakuen_Kenpucho:_Tou" label="Tokyo_Majin_Gakuen_Kenpucho:_Tou">
+        <ns0:color a="0" b="200.643140495" g="157.772550553" r="90.2941200063" />
+        <ns0:size value="102.714767611" />
+      </node>
+      <node id="Blassreiter" label="Blassreiter">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Outlaw_Star" label="Outlaw_Star">
+        <ns0:color a="0" b="208.752943933" g="172.611766666" r="113.58823856" />
+        <ns0:size value="101.801753492" />
+      </node>
+      <node id="Sasameki_Koto" label="Sasameki_Koto">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Devil_May_Cry" label="Devil_May_Cry">
+        <ns0:color a="0" b="186.705886424" g="124.776473165" r="158.32941407" />
+        <ns0:size value="146.80405779" />
+      </node>
+      <node id="Dogs:_Bullets_&amp;_Carnage" label="Dogs:_Bullets_&amp;_Carnage">
+        <ns0:color a="0" b="66.4862770736" g="175.070592999" r="81.3803938329" />
+        <ns0:size value="113.314845307" />
+      </node>
+      <node id="Inukami!" label="Inukami!">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Shaman_King" label="Shaman_King">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Karas" label="Karas">
+        <ns0:color a="0" b="200.643140495" g="157.772550553" r="90.2941200063" />
+        <ns0:size value="102.714767611" />
+      </node>
+      <node id="One_Piece" label="One_Piece">
+        <ns0:color a="0" b="200.643140495" g="157.772550553" r="90.2941200063" />
+        <ns0:size value="102.714767611" />
+      </node>
+      <node id="Monster" label="Monster">
+        <ns0:color a="0" b="208.752943933" g="172.611766666" r="113.58823856" />
+        <ns0:size value="101.801753492" />
+      </node>
+      <node id="Akira" label="Akira">
+        <ns0:color a="0" b="200.643140495" g="157.772550553" r="90.2941200063" />
+        <ns0:size value="102.714767611" />
+      </node>
+      <node id="Hana_Yori_Dango" label="Hana_Yori_Dango">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Togainu_no_Chi" label="Togainu_no_Chi">
+        <ns0:color a="0" b="140.470595062" g="216.941178292" r="169.352945499" />
+        <ns0:size value="109.339300971" />
+      </node>
+      <node id="Mushishi" label="Mushishi">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Nichijou" label="Nichijou">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Soul_Eater" label="Soul_Eater">
+        <ns0:color a="0" b="182.396082759" g="124.384314299" r="37.8823532611" />
+        <ns0:size value="104.565434523" />
+      </node>
+      <node id="Kuragehime" label="Kuragehime">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Jungle_wa_Itsumo_Hare_nochi_Guu" label="Jungle_wa_Itsumo_Hare_nochi_Guu">
+        <ns0:color a="0" b="208.752943933" g="172.611766666" r="113.58823856" />
+        <ns0:size value="101.801753492" />
+      </node>
+      <node id="Zombie-Loan" label="Zombie-Loan">
+        <ns0:color a="0" b="153.337260962" g="189.572549075" r="204.74902004" />
+        <ns0:size value="154.883029863" />
+      </node>
+      <node id="Speed_Grapher" label="Speed_Grapher">
+        <ns0:color a="0" b="200.643140495" g="157.772550553" r="90.2941200063" />
+        <ns0:size value="102.714767611" />
+      </node>
+      <node id="Ouran_Koukou_Host_Club" label="Ouran_Koukou_Host_Club">
+        <ns0:color a="0" b="190.505886197" g="139.223530412" r="61.1764718145" />
+        <ns0:size value="103.635970141" />
+      </node>
+      <node id="Mononoke_Hime" label="Mononoke_Hime">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Air_Gear" label="Air_Gear">
+        <ns0:color a="0" b="208.752943933" g="172.611766666" r="113.58823856" />
+        <ns0:size value="101.801753492" />
+      </node>
+      <node id="Kannagi" label="Kannagi">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Hetalia_Axis_Powers" label="Hetalia_Axis_Powers">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Goku_Sayonara_Zetsubou_Sensei" label="Goku_Sayonara_Zetsubou_Sensei">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Princess_Tutu" label="Princess_Tutu">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Great_Teacher_Onizuka" label="Great_Teacher_Onizuka">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="UN-GO_episode:0_Inga-ron" label="UN-GO_episode:0_Inga-ron">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Bus_Gamer" label="Bus_Gamer">
+        <ns0:color a="0" b="140.470595062" g="216.941178292" r="169.352945499" />
+        <ns0:size value="109.339300971" />
+      </node>
+      <node id="R.O.D_the_TV" label="R.O.D_the_TV">
+        <ns0:color a="0" b="200.643140495" g="157.772550553" r="90.2941200063" />
+        <ns0:size value="102.714767611" />
+      </node>
+      <node id="Zetsuen_no_Tempest" label="Zetsuen_no_Tempest">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Tears_to_Tiara" label="Tears_to_Tiara">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Katekyo_Hitman_Reborn!" label="Katekyo_Hitman_Reborn!">
+        <ns0:color a="0" b="182.396082759" g="124.384314299" r="37.8823532611" />
+        <ns0:size value="104.565434523" />
+      </node>
+      <node id="Kite" label="Kite">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Kore_wa_Zombie_Desu_ka" label="Kore_wa_Zombie_Desu_ka">
+        <ns0:color a="0" b="208.752943933" g="172.611766666" r="113.58823856" />
+        <ns0:size value="101.801753492" />
+      </node>
+      <node id="Fullmetal_Alchemist:_Brotherhood" label="Fullmetal_Alchemist:_Brotherhood">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Sankarea" label="Sankarea">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Witchblade" label="Witchblade">
+        <ns0:color a="0" b="208.752943933" g="172.611766666" r="113.58823856" />
+        <ns0:size value="101.801753492" />
+      </node>
+      <node id="Gakkou_no_Kaidan" label="Gakkou_no_Kaidan">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Kara_no_Kyoukai_1:_Fukan_Fuukei" label="Kara_no_Kyoukai_1:_Fukan_Fuukei">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Hatenkou_Yuugi" label="Hatenkou_Yuugi">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Working!!" label="Working!!">
+        <ns0:color a="0" b="208.752943933" g="172.611766666" r="113.58823856" />
+        <ns0:size value="101.801753492" />
+      </node>
+      <node id="Berserk" label="Berserk">
+        <ns0:color a="0" b="208.752943933" g="172.611766666" r="113.58823856" />
+        <ns0:size value="101.801753492" />
+      </node>
+      <node id="xxxHOLiC" label="xxxHOLiC">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Monochrome_Factor" label="Monochrome_Factor">
+        <ns0:color a="0" b="208.752943933" g="172.611766666" r="113.58823856" />
+        <ns0:size value="101.801753492" />
+      </node>
+      <node id="Highschool_of_the_Dead" label="Highschool_of_the_Dead">
+        <ns0:color a="0" b="200.643140495" g="157.772550553" r="90.2941200063" />
+        <ns0:size value="102.714767611" />
+      </node>
+      <node id="Kamisama_Hajimemashita" label="Kamisama_Hajimemashita">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Vampire_Knight_Guilty" label="Vampire_Knight_Guilty">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Sukitte_Ii_na_yo." label="Sukitte_Ii_na_yo.">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Detective_Conan" label="Detective_Conan">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Kimi_ni_Todoke" label="Kimi_ni_Todoke">
+        <ns0:color a="0" b="208.752943933" g="172.611766666" r="113.58823856" />
+        <ns0:size value="101.801753492" />
+      </node>
+      <node id="Toaru_Majutsu_no_Index_II" label="Toaru_Majutsu_no_Index_II">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Minami-ke" label="Minami-ke">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Gantz" label="Gantz">
+        <ns0:color a="0" b="210.000002682" g="170.200004295" r="195.600003034" />
+        <ns0:size value="144.205824314" />
+      </node>
+      <node id="Gilgamesh" label="Gilgamesh">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Yumekui_Merry" label="Yumekui_Merry">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Phantom_Quest_Corp." label="Phantom_Quest_Corp.">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Bokurano" label="Bokurano">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Pokemon" label="Pokemon">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Gokusen" label="Gokusen">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Sword_Art_Online" label="Sword_Art_Online">
+        <ns0:color a="0" b="200.643140495" g="157.772550553" r="90.2941200063" />
+        <ns0:size value="102.714767611" />
+      </node>
+      <node id="Panty_&amp;_Stocking_with_Garterbelt" label="Panty_&amp;_Stocking_with_Garterbelt">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Grenadier" label="Grenadier">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Akikan!" label="Akikan!">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Tegami_Bachi" label="Tegami_Bachi">
+        <ns0:color a="0" b="208.752943933" g="172.611766666" r="113.58823856" />
+        <ns0:size value="101.801753492" />
+      </node>
+      <node id="Sunabouzu" label="Sunabouzu">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Yozakura_Quartet" label="Yozakura_Quartet">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Basquash!" label="Basquash!">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Gyagu_Manga_Biyori" label="Gyagu_Manga_Biyori">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Iron_Man" label="Iron_Man">
+        <ns0:color a="0" b="200.643140495" g="157.772550553" r="90.2941200063" />
+        <ns0:size value="102.714767611" />
+      </node>
+      <node id="Kamikaze_Kaitou_Jeanne" label="Kamikaze_Kaitou_Jeanne">
+        <ns0:color a="0" b="208.752943933" g="172.611766666" r="113.58823856" />
+        <ns0:size value="101.801753492" />
+      </node>
+      <node id="Excel_Saga" label="Excel_Saga">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Karakuri_Zoushi_Ayatsuri_Sakon" label="Karakuri_Zoushi_Ayatsuri_Sakon">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Angelic_Layer" label="Angelic_Layer">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Toaru_Majutsu_no_Index" label="Toaru_Majutsu_no_Index">
+        <ns0:color a="0" b="200.643140495" g="157.772550553" r="90.2941200063" />
+        <ns0:size value="102.714767611" />
+      </node>
+      <node id="SoulTaker" label="SoulTaker">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Gungrave" label="Gungrave">
+        <ns0:color a="0" b="200.643140495" g="157.772550553" r="90.2941200063" />
+        <ns0:size value="102.714767611" />
+      </node>
+      <node id="Papuwa" label="Papuwa">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Ookami-san_to_Shichinin_no_Nakamatachi" label="Ookami-san_to_Shichinin_no_Nakamatachi">
+        <ns0:color a="0" b="197.058826983" g="144.964709222" r="174.894120276" />
+        <ns0:size value="145.499141462" />
+      </node>
+      <node id="Weiß_Kreuz_Glühen" label="Weiß_Kreuz_Glühen">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Tiger_&amp;_Bunny" label="Tiger_&amp;_Bunny">
+        <ns0:color a="0" b="103.513726406" g="176.117650561" r="250.65490222" />
+        <ns0:size value="130.716038948" />
+      </node>
+      <node id="Yami_no_Matsuei" label="Yami_no_Matsuei">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Danshi_Koukousei_no_Nichijou" label="Danshi_Koukousei_no_Nichijou">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Bakemonogatari" label="Bakemonogatari">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Hanasakeru_Seishounen" label="Hanasakeru_Seishounen">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Starry☆Sky" label="Starry☆Sky">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Yakitate!!_Japan" label="Yakitate!!_Japan">
+        <ns0:color a="0" b="208.752943933" g="172.611766666" r="113.58823856" />
+        <ns0:size value="101.801753492" />
+      </node>
+      <node id="Fate" label="Fate">
+        <ns0:color a="0" b="208.752943933" g="172.611766666" r="113.58823856" />
+        <ns0:size value="101.801753492" />
+      </node>
+      <node id="Ao_no_Exorcist" label="Ao_no_Exorcist">
+        <ns0:color a="0" b="190.505886197" g="139.223530412" r="61.1764718145" />
+        <ns0:size value="103.635970141" />
+      </node>
+      <node id="Dai_Mahou_Touge" label="Dai_Mahou_Touge">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Dragon_Ball_Z" label="Dragon_Ball_Z">
+        <ns0:color a="0" b="208.752943933" g="172.611766666" r="113.58823856" />
+        <ns0:size value="101.801753492" />
+      </node>
+      <node id="Ichi_The_Killer:_Episode_0" label="Ichi_The_Killer:_Episode_0">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Seto_no_Hanayome" label="Seto_no_Hanayome">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Asura_Cryin" label="Asura_Cryin">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Mahou_Shoujo_Madoka★Magica" label="Mahou_Shoujo_Madoka★Magica">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Zero_no_Tsukaima" label="Zero_no_Tsukaima">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Kamisama_no_Memochou" label="Kamisama_no_Memochou">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Fullmetal_Alchemist" label="Fullmetal_Alchemist">
+        <ns0:color a="0" b="208.752943933" g="172.611766666" r="113.58823856" />
+        <ns0:size value="101.801753492" />
+      </node>
+      <node id="Yu_Yu_Hakusho" label="Yu_Yu_Hakusho">
+        <ns0:color a="0" b="200.643140495" g="157.772550553" r="90.2941200063" />
+        <ns0:size value="102.714767611" />
+      </node>
+      <node id="Mirai_Nikki_(TV)" label="Mirai_Nikki_(TV)">
+        <ns0:color a="0" b="200.643140495" g="157.772550553" r="90.2941200063" />
+        <ns0:size value="102.714767611" />
+      </node>
+      <node id="Bobobo-bo_Bo-bobo" label="Bobobo-bo_Bo-bobo">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Karin" label="Karin">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Giant_Killing" label="Giant_Killing">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="School_Rumble_Ni_Gakki" label="School_Rumble_Ni_Gakki">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Gintama" label="Gintama">
+        <ns0:color a="0" b="40.0000014156" g="89.0000022948" r="177.000004649" />
+        <ns0:size value="209.818236314" />
+      </node>
+      <node id="Btooom!" label="Btooom!">
+        <ns0:color a="0" b="107.035299182" g="202.247061968" r="136.16470921" />
+        <ns0:size value="111.309325644" />
+      </node>
+      <node id="Baccano!" label="Baccano!">
+        <ns0:color a="0" b="190.505886197" g="139.223530412" r="61.1764718145" />
+        <ns0:size value="103.635970141" />
+      </node>
+      <node id="Tokyo_Mew_Mew" label="Tokyo_Mew_Mew">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Campione!:_Matsurowanu_Kamigami_to_Kamigoroshi_no_Maou" label="Campione!:_Matsurowanu_Kamigami_to_Kamigoroshi_no_Maou">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Mayoi_Neko_Overrun!" label="Mayoi_Neko_Overrun!">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Ergo_Proxy" label="Ergo_Proxy">
+        <ns0:color a="0" b="218.890198231" g="191.160786808" r="142.705886751" />
+        <ns0:size value="100.896855002" />
+      </node>
+      <node id="Beet_the_Vandel_Buster" label="Beet_the_Vandel_Buster">
+        <ns0:color a="0" b="208.752943933" g="172.611766666" r="113.58823856" />
+        <ns0:size value="101.801753492" />
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="Mushi-Uta" target="Darker_than_Black:_Kuro_no_Keiyakusha" />
+      <edge id="1" source="Ookiku_Furikabutte" target="Kaiji" />
+      <edge id="2" source="Jigoku_Shoujo" target="Zombie-Loan" />
+      <edge id="3" source="Jigoku_Shoujo" target="Darker_than_Black:_Kuro_no_Keiyakusha" />
+      <edge id="4" source="Maria†Holic" target="Ookami-san_to_Shichinin_no_Nakamatachi" />
+      <edge id="5" source="Maria†Holic" target="Zombie-Loan" />
+      <edge id="6" source="Maria†Holic" target="Gintama" />
+      <edge id="7" source="Shingetsutan_Tsukihime" target="Zombie-Loan" />
+      <edge id="8" source="Rosario_+_Vampire" target="Ookami-san_to_Shichinin_no_Nakamatachi" />
+      <edge id="9" source="Tsubasa_Chronicle" target="Saiyuki" />
+      <edge id="10" source="Kaze_no_Stigma" target="Devil_May_Cry" />
+      <edge id="11" source="Kaze_no_Stigma" target="Black_Cat" />
+      <edge id="12" source="Kaze_no_Stigma" target="Darker_than_Black:_Kuro_no_Keiyakusha" />
+      <edge id="13" source="Kaze_no_Stigma" target="Kaichou_wa_Maid-sama!" />
+      <edge id="14" source="Elfen_Lied" target="Gantz" />
+      <edge id="15" source="Elfen_Lied" target="Darker_than_Black:_Kuro_no_Keiyakusha" />
+      <edge id="16" source="Elfen_Lied" target="Dogs:_Bullets_&amp;_Carnage" />
+      <edge id="17" source="Elfen_Lied" target="Black_Cat" />
+      <edge id="18" source="The_Skull_Man" target="Darker_than_Black:_Kuro_no_Keiyakusha" />
+      <edge id="19" source="Angel_Beats!" target="Ookami-san_to_Shichinin_no_Nakamatachi" />
+      <edge id="20" source="Angel_Beats!" target="Gantz" />
+      <edge id="21" source="Angel_Beats!" target="Zombie-Loan" />
+      <edge id="22" source="Angel_Beats!" target="Gintama" />
+      <edge id="23" source="Medaka_Box" target="Ookami-san_to_Shichinin_no_Nakamatachi" />
+      <edge id="24" source="Medaka_Box" target="Kaichou_wa_Maid-sama!" />
+      <edge id="25" source="Medaka_Box" target="Gintama" />
+      <edge id="26" source="Texhnolyze" target="Togainu_no_Chi" />
+      <edge id="27" source="Blade" target="Devil_May_Cry" />
+      <edge id="28" source="Phantom:_Requiem_for_the_Phantom" target="Black_Cat" />
+      <edge id="29" source="Phantom:_Requiem_for_the_Phantom" target="Darker_than_Black:_Kuro_no_Keiyakusha" />
+      <edge id="30" source="Phantom:_Requiem_for_the_Phantom" target="Dogs:_Bullets_&amp;_Carnage" />
+      <edge id="31" source="Detroit_Metal_City" target="Gintama" />
+      <edge id="32" source="Ore_no_Imouto_ga_Konnani_Kawaii_Wake_ga_Nai" target="Ookami-san_to_Shichinin_no_Nakamatachi" />
+      <edge id="33" source="Ore_no_Imouto_ga_Konnani_Kawaii_Wake_ga_Nai" target="Kaichou_wa_Maid-sama!" />
+      <edge id="34" source="Goshuushou-sama_Ninomiya-kun" target="Gintama" />
+      <edge id="35" source="Devil_Hunter_Yohko" target="Devil_May_Cry" />
+      <edge id="36" source="Loveless" target="Black_Cat" />
+      <edge id="37" source="Loveless" target="Spiral:_Suiri_no_Kizuna" />
+      <edge id="38" source="Deadman_Wonderland" target="Dogs:_Bullets_&amp;_Carnage" />
+      <edge id="39" source="Deadman_Wonderland" target="Btooom!" />
+      <edge id="40" source="Deadman_Wonderland" target="Togainu_no_Chi" />
+      <edge id="41" source="Deadman_Wonderland" target="Gantz" />
+      <edge id="42" source="Deadman_Wonderland" target="Darker_than_Black:_Kuro_no_Keiyakusha" />
+      <edge id="43" source="Deadman_Wonderland" target="Kaiji" />
+      <edge id="44" source="Lovely_Complex" target="Kaichou_wa_Maid-sama!" />
+      <edge id="45" source="Hime_Chen!_Otogi_Chikku_Idol_Lilpri" target="Ookami-san_to_Shichinin_no_Nakamatachi" />
+      <edge id="46" source="Claymore" target="Devil_May_Cry" />
+      <edge id="47" source="Claymore" target="Black_Cat" />
+      <edge id="48" source="Claymore" target="Zombie-Loan" />
+      <edge id="49" source="Claymore" target="Gantz" />
+      <edge id="50" source="Claymore" target="Darker_than_Black:_Kuro_no_Keiyakusha" />
+      <edge id="51" source="Claymore" target="Hunter_x_Hunter" />
+      <edge id="52" source="Nabari_no_Ou" target="Zombie-Loan" />
+      <edge id="53" source="Nabari_no_Ou" target="Darker_than_Black:_Kuro_no_Keiyakusha" />
+      <edge id="54" source="Nabari_no_Ou" target="Hunter_x_Hunter" />
+      <edge id="55" source="Naruto" target="Saiyuki" />
+      <edge id="56" source="Naruto" target="Tiger_&amp;_Bunny" />
+      <edge id="57" source="Naruto" target="Gintama" />
+      <edge id="58" source="Naruto" target="Hunter_x_Hunter" />
+      <edge id="59" source="To_LOVE-Ru" target="Black_Cat" />
+      <edge id="60" source="First_Squad:_The_Moment_of_Truth" target="Darker_than_Black:_Kuro_no_Keiyakusha" />
+      <edge id="61" source="Blood-C" target="Gantz" />
+      <edge id="62" source="Shikabane_Hime:_Kuro" target="Zombie-Loan" />
+      <edge id="63" source="Tono_to_Issho:_Ippunkan_Gekijou" target="Gintama" />
+      <edge id="64" source="Ghost_in_the_Shell:_Stand_Alone_Complex" target="Darker_than_Black:_Kuro_no_Keiyakusha" />
+      <edge id="65" source="Bakuman." target="Tiger_&amp;_Bunny" />
+      <edge id="66" source="K" target="Darker_than_Black:_Kuro_no_Keiyakusha" />
+      <edge id="67" source="Majin_Tantei_Nougami_Neuro" target="Spiral:_Suiri_no_Kizuna" />
+      <edge id="68" source="Majin_Tantei_Nougami_Neuro" target="Kaichou_wa_Maid-sama!" />
+      <edge id="69" source="Majin_Tantei_Nougami_Neuro" target="Zombie-Loan" />
+      <edge id="70" source="Majin_Tantei_Nougami_Neuro" target="Darker_than_Black:_Kuro_no_Keiyakusha" />
+      <edge id="71" source="Majin_Tantei_Nougami_Neuro" target="Kaiji" />
+      <edge id="72" source="Majin_Tantei_Nougami_Neuro" target="Hunter_x_Hunter" />
+      <edge id="73" source="Baka_to_Test_to_Shoukanjuu" target="Ookami-san_to_Shichinin_no_Nakamatachi" />
+      <edge id="74" source="Baka_to_Test_to_Shoukanjuu" target="Kaichou_wa_Maid-sama!" />
+      <edge id="75" source="Baka_to_Test_to_Shoukanjuu" target="Gintama" />
+      <edge id="76" source="Suzumiya_Haruhi_no_Yuuutsu" target="Ookami-san_to_Shichinin_no_Nakamatachi" />
+      <edge id="77" source="Suzumiya_Haruhi_no_Yuuutsu" target="Kaichou_wa_Maid-sama!" />
+      <edge id="78" source="X-Men" target="Darker_than_Black:_Kuro_no_Keiyakusha" />
+      <edge id="79" source="X-Men" target="Tiger_&amp;_Bunny" />
+      <edge id="80" source="InuYasha" target="Saiyuki" />
+      <edge id="81" source="Accel_World" target="Gantz" />
+      <edge id="82" source="Accel_World" target="Btooom!" />
+      <edge id="83" source="Persona:_Trinity_Soul" target="Darker_than_Black:_Kuro_no_Keiyakusha" />
+      <edge id="84" source="Itazura_na_Kiss" target="Kaichou_wa_Maid-sama!" />
+      <edge id="85" source="Seikon_no_Qwaser" target="Darker_than_Black:_Kuro_no_Keiyakusha" />
+      <edge id="86" source="Seitokai_no_Ichizon" target="Gintama" />
+      <edge id="87" source="Nogizaka_Haruka_no_Himitsu" target="Kaichou_wa_Maid-sama!" />
+      <edge id="88" source="Innocent_Venus" target="Darker_than_Black:_Kuro_no_Keiyakusha" />
+      <edge id="89" source="Weiß_Kreuz" target="Saiyuki" />
+      <edge id="90" source="Weiß_Kreuz" target="Black_Cat" />
+      <edge id="91" source="Weiß_Kreuz" target="GetBackers" />
+      <edge id="92" source="Spiral:_Suiri_no_Kizuna" target="Bus_Gamer" />
+      <edge id="93" source="Spiral:_Suiri_no_Kizuna" target="R.O.D_the_TV" />
+      <edge id="94" source="Spiral:_Suiri_no_Kizuna" target="X" />
+      <edge id="95" source="Spiral:_Suiri_no_Kizuna" target="Mnemosyne:_Mnemosyne_no_Musume-tachi" />
+      <edge id="96" source="Spiral:_Suiri_no_Kizuna" target="Tantei_Gakuen_Q" />
+      <edge id="97" source="Spiral:_Suiri_no_Kizuna" target="Phi_Brain:_Kami_no_Puzzle_2nd_Season" />
+      <edge id="98" source="Spiral:_Suiri_no_Kizuna" target="Hyouka" />
+      <edge id="99" source="Spiral:_Suiri_no_Kizuna" target="Asura_Cryin" />
+      <edge id="100" source="Spiral:_Suiri_no_Kizuna" target="Death_Note" />
+      <edge id="101" source="Spiral:_Suiri_no_Kizuna" target="Spice_and_Wolf" />
+      <edge id="102" source="Spiral:_Suiri_no_Kizuna" target="Cowboy_Bebop" />
+      <edge id="103" source="Spiral:_Suiri_no_Kizuna" target="Detective_Conan" />
+      <edge id="104" source="Spiral:_Suiri_no_Kizuna" target="Higashi_no_Eden" />
+      <edge id="105" source="Spiral:_Suiri_no_Kizuna" target="Matantei_Loki_Ragnarok" />
+      <edge id="106" source="Spiral:_Suiri_no_Kizuna" target="Kaiji" />
+      <edge id="107" source="Spiral:_Suiri_no_Kizuna" target="Phi_Brain:_Kami_no_Puzzle" />
+      <edge id="108" source="Spiral:_Suiri_no_Kizuna" target="Monochrome_Factor" />
+      <edge id="109" source="Spiral:_Suiri_no_Kizuna" target="Gosick" />
+      <edge id="110" source="Spiral:_Suiri_no_Kizuna" target="Dantalian_no_Shoka" />
+      <edge id="111" source="Spiral:_Suiri_no_Kizuna" target="Kamisama_no_Memochou" />
+      <edge id="112" source="Spiral:_Suiri_no_Kizuna" target="Fruits_Basket" />
+      <edge id="113" source="Spiral:_Suiri_no_Kizuna" target="Shinrei_Tantei_Yakumo" />
+      <edge id="114" source="Spiral:_Suiri_no_Kizuna" target="UN-GO" />
+      <edge id="115" source="Black_Lagoon" target="Devil_May_Cry" />
+      <edge id="116" source="Black_Lagoon" target="Gantz" />
+      <edge id="117" source="Black_Lagoon" target="Dogs:_Bullets_&amp;_Carnage" />
+      <edge id="118" source="Black_Lagoon" target="Black_Cat" />
+      <edge id="119" source="Oh!_Edo_Rocket" target="Gintama" />
+      <edge id="120" source="Bakumatsu_Kikansetsu_Irohanihoheto" target="Darker_than_Black:_Kuro_no_Keiyakusha" />
+      <edge id="121" source="Tentai_Senshi_Sunred" target="Tiger_&amp;_Bunny" />
+      <edge id="122" source="Tentai_Senshi_Sunred" target="Gintama" />
+      <edge id="123" source="Chihayafuru" target="Kaiji" />
+      <edge id="124" source="MM!" target="Ookami-san_to_Shichinin_no_Nakamatachi" />
+      <edge id="125" source="Ultraviolet:_Code_044" target="Devil_May_Cry" />
+      <edge id="126" source="Red_Garden" target="Gantz" />
+      <edge id="127" source="Red_Garden" target="Zombie-Loan" />
+      <edge id="128" source="Sengoku_Basara" target="Tiger_&amp;_Bunny" />
+      <edge id="129" source="Sengoku_Basara" target="Gintama" />
+      <edge id="130" source="Basilisk:_Kouga_Ninpou_Chou" target="Gantz" />
+      <edge id="131" source="Kobato." target="Kaichou_wa_Maid-sama!" />
+      <edge id="132" source="Chuu_Bra!!" target="Kaichou_wa_Maid-sama!" />
+      <edge id="133" source="Soredemo_Machi_wa_Mawatteiru" target="Kaichou_wa_Maid-sama!" />
+      <edge id="134" source="Ayakashi" target="Darker_than_Black:_Kuro_no_Keiyakusha" />
+      <edge id="135" source="GetBackers" target="Gad_Guard" />
+      <edge id="136" source="GetBackers" target="Bus_Gamer" />
+      <edge id="137" source="GetBackers" target="Saiyuki" />
+      <edge id="138" source="GetBackers" target="Black_Cat" />
+      <edge id="139" source="GetBackers" target="Kaichou_wa_Maid-sama!" />
+      <edge id="140" source="GetBackers" target="Rurouni_Kenshin" />
+      <edge id="141" source="GetBackers" target="Zombie-Loan" />
+      <edge id="142" source="GetBackers" target="Dragon_Ball_Z" />
+      <edge id="143" source="GetBackers" target="Monochrome_Factor" />
+      <edge id="144" source="GetBackers" target="Kamikaze_Kaitou_Jeanne" />
+      <edge id="145" source="GetBackers" target="Darker_than_Black:_Kuro_no_Keiyakusha" />
+      <edge id="146" source="GetBackers" target="Devil_May_Cry" />
+      <edge id="147" source="GetBackers" target="Katekyo_Hitman_Reborn!" />
+      <edge id="148" source="GetBackers" target="Karakuri_Zoushi_Ayatsuri_Sakon" />
+      <edge id="149" source="GetBackers" target="Senkou_no_Night_Raid" />
+      <edge id="150" source="GetBackers" target="X" />
+      <edge id="151" source="GetBackers" target="Shonan_Junai_Gumi" />
+      <edge id="152" source="GetBackers" target="Hunter_x_Hunter" />
+      <edge id="153" source="GetBackers" target="Toaru_Majutsu_no_Index" />
+      <edge id="154" source="GetBackers" target="Scryed" />
+      <edge id="155" source="GetBackers" target="Gintama" />
+      <edge id="156" source="GetBackers" target="Hellsing" />
+      <edge id="157" source="GetBackers" target="SKET_Dance" />
+      <edge id="158" source="GetBackers" target="Ookami-san_to_Shichinin_no_Nakamatachi" />
+      <edge id="159" source="GetBackers" target="Tiger_&amp;_Bunny" />
+      <edge id="160" source="Wolfs_Rain" target="Darker_than_Black:_Kuro_no_Keiyakusha" />
+      <edge id="161" source="Kami_nomi_zo_Shiru_Sekai" target="Gintama" />
+      <edge id="162" source="Zoku_Sayonara_Zetsubou_Sensei" target="Gintama" />
+      <edge id="163" source="Shinrei_Tantei_Yakumo" target="Devil_May_Cry" />
+      <edge id="164" source="Violence_Jack" target="Btooom!" />
+      <edge id="165" source="Naruto:_Shippuuden" target="Hunter_x_Hunter" />
+      <edge id="166" source="Ikkitousen" target="Ookami-san_to_Shichinin_no_Nakamatachi" />
+      <edge id="167" source="Special_A" target="Kaichou_wa_Maid-sama!" />
+      <edge id="168" source="Seitokai_Yakuindomo" target="Kaichou_wa_Maid-sama!" />
+      <edge id="169" source="Seitokai_Yakuindomo" target="Gintama" />
+      <edge id="170" source="DearS" target="Zombie-Loan" />
+      <edge id="171" source="11eyes" target="Gantz" />
+      <edge id="172" source="Sacred_Seven" target="Tiger_&amp;_Bunny" />
+      <edge id="173" source="Spectral_Force" target="Devil_May_Cry" />
+      <edge id="174" source="Beelzebub" target="Ookami-san_to_Shichinin_no_Nakamatachi" />
+      <edge id="175" source="Beelzebub" target="Kaichou_wa_Maid-sama!" />
+      <edge id="176" source="Beelzebub" target="Gintama" />
+      <edge id="177" source="Hakushaku_to_Yousei" target="Kaichou_wa_Maid-sama!" />
+      <edge id="178" source="Devilman_Lady" target="Devil_May_Cry" />
+      <edge id="179" source="Devilman_Lady" target="Darker_than_Black:_Kuro_no_Keiyakusha" />
+      <edge id="180" source="Patalliro_Saiyuki!" target="Saiyuki" />
+      <edge id="181" source="Yu-Gi-Oh!" target="Gantz" />
+      <edge id="182" source="Yu-Gi-Oh!" target="Kaiji" />
+      <edge id="183" source="Ano_Natsu_de_Matteru" target="Gintama" />
+      <edge id="184" source="Shugo_Chara!" target="Zombie-Loan" />
+      <edge id="185" source="Shugo_Chara!" target="Kaichou_wa_Maid-sama!" />
+      <edge id="186" source="Dororon_Enma-kun_Meeramera" target="Gintama" />
+      <edge id="187" source="Hidan_no_Aria" target="Ookami-san_to_Shichinin_no_Nakamatachi" />
+      <edge id="188" source="Jigoku_Shoujo_Futakomori" target="Darker_than_Black:_Kuro_no_Keiyakusha" />
+      <edge id="189" source="Pandora_Hearts" target="Ookami-san_to_Shichinin_no_Nakamatachi" />
+      <edge id="190" source="Pandora_Hearts" target="Zombie-Loan" />
+      <edge id="191" source="Pandora_Hearts" target="Darker_than_Black:_Kuro_no_Keiyakusha" />
+      <edge id="192" source="Pandora_Hearts" target="Kaichou_wa_Maid-sama!" />
+      <edge id="193" source="Needless" target="Devil_May_Cry" />
+      <edge id="194" source="Needless" target="Black_Cat" />
+      <edge id="195" source="Needless" target="Darker_than_Black:_Kuro_no_Keiyakusha" />
+      <edge id="196" source="Tatakau_Shisho:_The_Book_of_Bantorra" target="Darker_than_Black:_Kuro_no_Keiyakusha" />
+      <edge id="197" source="Toriko" target="Gintama" />
+      <edge id="198" source="Toriko" target="Hunter_x_Hunter" />
+      <edge id="199" source="Hayate_no_Gotoku!" target="Ookami-san_to_Shichinin_no_Nakamatachi" />
+      <edge id="200" source="Hayate_no_Gotoku!" target="Kaichou_wa_Maid-sama!" />
+      <edge id="201" source="Hayate_no_Gotoku!" target="Gintama" />
+      <edge id="202" source="Mitsudomoe" target="Gintama" />
+      <edge id="203" source="Another" target="Gantz" />
+      <edge id="204" source="Another" target="Btooom!" />
+      <edge id="205" source="Kemonozume" target="Gantz" />
+      <edge id="206" source="Star_Ocean_EX" target="Hunter_x_Hunter" />
+      <edge id="207" source="Venus_Versus_Virus" target="Zombie-Loan" />
+      <edge id="208" source="Higashi_no_Eden" target="Gantz" />
+      <edge id="209" source="Higashi_no_Eden" target="Darker_than_Black:_Kuro_no_Keiyakusha" />
+      <edge id="210" source="Higashi_no_Eden" target="Black_Cat" />
+      <edge id="211" source="Noein:_Mou_Hitori_no_Kimi_e" target="Darker_than_Black:_Kuro_no_Keiyakusha" />
+      <edge id="212" source="Kono_Naka_ni_Hitori_Imouto_ga_Iru!" target="Kaichou_wa_Maid-sama!" />
+      <edge id="213" source="Ga-Rei:_Zero" target="Devil_May_Cry" />
+      <edge id="214" source="Ga-Rei:_Zero" target="Zombie-Loan" />
+      <edge id="215" source="Ga-Rei:_Zero" target="Darker_than_Black:_Kuro_no_Keiyakusha" />
+      <edge id="216" source="Brave_Story" target="Hunter_x_Hunter" />
+      <edge id="217" source="Zettai_Karen_Children" target="Darker_than_Black:_Kuro_no_Keiyakusha" />
+      <edge id="218" source="Zettai_Karen_Children" target="Tiger_&amp;_Bunny" />
+      <edge id="219" source="Toaru_Kagaku_no_Railgun" target="Ookami-san_to_Shichinin_no_Nakamatachi" />
+      <edge id="220" source="Toaru_Kagaku_no_Railgun" target="Darker_than_Black:_Kuro_no_Keiyakusha" />
+      <edge id="221" source="Tenshi_na_Konamaiki" target="Kaichou_wa_Maid-sama!" />
+      <edge id="222" source="Kurokami" target="Darker_than_Black:_Kuro_no_Keiyakusha" />
+      <edge id="223" source="Wild_Arms:_Twilight_Venom" target="Devil_May_Cry" />
+      <edge id="224" source="Durarara!!" target="Ookami-san_to_Shichinin_no_Nakamatachi" />
+      <edge id="225" source="Durarara!!" target="Black_Cat" />
+      <edge id="226" source="Durarara!!" target="Darker_than_Black:_Kuro_no_Keiyakusha" />
+      <edge id="227" source="Durarara!!" target="Dogs:_Bullets_&amp;_Carnage" />
+      <edge id="228" source="Trinity_Blood" target="Devil_May_Cry" />
+      <edge id="229" source="Trinity_Blood" target="Zombie-Loan" />
+      <edge id="230" source="Trinity_Blood" target="Darker_than_Black:_Kuro_no_Keiyakusha" />
+      <edge id="231" source="Tanken_Driland" target="Hunter_x_Hunter" />
+      <edge id="232" source="Kurozuka" target="Darker_than_Black:_Kuro_no_Keiyakusha" />
+      <edge id="233" source="Hajime_no_Ippo" target="Kaiji" />
+      <edge id="234" source="Kaiji" target="Hunter_x_Hunter_(2011)" />
+      <edge id="235" source="Kaiji" target="Bus_Gamer" />
+      <edge id="236" source="Kaiji" target="Umineko_no_Naku_Koro_ni" />
+      <edge id="237" source="Kaiji" target="Rainbow:_Nisha_Rokubou_no_Shichinin" />
+      <edge id="238" source="Kaiji" target="Monster" />
+      <edge id="239" source="Kaiji" target="Saraiya_Goyou" />
+      <edge id="240" source="Kaiji" target="Tengen_Toppa_Gurren_Lagann" />
+      <edge id="241" source="Kaiji" target="Death_Note" />
+      <edge id="242" source="Kaiji" target="C" />
+      <edge id="243" source="Kaiji" target="Steins;Gate" />
+      <edge id="244" source="Kaiji" target="One_Outs" />
+      <edge id="245" source="Kaiji" target="Mirai_Nikki_(TV)" />
+      <edge id="246" source="Kaiji" target="Giant_Killing" />
+      <edge id="247" source="Kaiji" target="Gantz" />
+      <edge id="248" source="Kaiji" target="Prince_of_Tennis:_The_Two_Samurai_The_First_Game" />
+      <edge id="249" source="Kaiji" target="Hunter_x_Hunter" />
+      <edge id="250" source="Kaiji" target="Phi_Brain:_Kami_no_Puzzle" />
+      <edge id="251" source="Kaiji" target="Akagi" />
+      <edge id="252" source="Kaiji" target="Campione!:_Matsurowanu_Kamigami_to_Kamigoroshi_no_Maou" />
+      <edge id="253" source="Kaiji" target="Hikaru_no_Go" />
+      <edge id="254" source="Kaiji" target="K-On!" />
+      <edge id="255" source="Kyou_Koi_wo_Hajimemasu" target="Kaichou_wa_Maid-sama!" />
+      <edge id="256" source="He_is_My_Master" target="Kaichou_wa_Maid-sama!" />
+      <edge id="257" source="Shigofumi" target="Darker_than_Black:_Kuro_no_Keiyakusha" />
+      <edge id="258" source="Groove_Adventure_Rave" target="Black_Cat" />
+      <edge id="259" source="Groove_Adventure_Rave" target="Hunter_x_Hunter" />
+      <edge id="260" source="Haiyore!_Nyaruko-san" target="Gintama" />
+      <edge id="261" source="Wolverine" target="Tiger_&amp;_Bunny" />
+      <edge id="262" source="Arakawa_Under_the_Bridge_x_Bridge" target="Gintama" />
+      <edge id="263" source="Suzuka" target="Kaichou_wa_Maid-sama!" />
+      <edge id="264" source="Full_Metal_Panic!" target="Black_Cat" />
+      <edge id="265" source="Full_Metal_Panic!" target="Darker_than_Black:_Kuro_no_Keiyakusha" />
+      <edge id="266" source="Kaichou_wa_Maid-sama!" target="Inu_x_Boku_SS" />
+      <edge id="267" source="Kaichou_wa_Maid-sama!" target="Girls_Bravo:_First_Season" />
+      <edge id="268" source="Kaichou_wa_Maid-sama!" target="Ouran_Koukou_Host_Club" />
+      <edge id="269" source="Kaichou_wa_Maid-sama!" target="Kimi_ni_Todoke_2nd_Season" />
+      <edge id="270" source="Kaichou_wa_Maid-sama!" target="Working!!" />
+      <edge id="271" source="Kaichou_wa_Maid-sama!" target="Gokujou!!_Mecha_Mote_Iinchou" />
+      <edge id="272" source="Kaichou_wa_Maid-sama!" target="Sasameki_Koto" />
+      <edge id="273" source="Kaichou_wa_Maid-sama!" target="Hana_Yori_Dango" />
+      <edge id="274" source="Kaichou_wa_Maid-sama!" target="Gakuen_Heaven" />
+      <edge id="275" source="Kaichou_wa_Maid-sama!" target="Kareshi_Kanojo_no_Jijou" />
+      <edge id="276" source="Kaichou_wa_Maid-sama!" target="Hanasakeru_Seishounen" />
+      <edge id="277" source="Kaichou_wa_Maid-sama!" target="Aishiteruze_Baby" />
+      <edge id="278" source="Kaichou_wa_Maid-sama!" target="Starry☆Sky" />
+      <edge id="279" source="Kaichou_wa_Maid-sama!" target="Tonari_no_Kaibutsu-kun" />
+      <edge id="280" source="Kaichou_wa_Maid-sama!" target="Mamoru-kun_ni_Megami_no_Shukufuku_wo!" />
+      <edge id="281" source="Kaichou_wa_Maid-sama!" target="Kamisama_Hajimemashita" />
+      <edge id="282" source="Kaichou_wa_Maid-sama!" target="Isekai_no_Seikishi_Monogatari" />
+      <edge id="283" source="Kaichou_wa_Maid-sama!" target="Junjou_Romantica" />
+      <edge id="284" source="Kaichou_wa_Maid-sama!" target="Kamikaze_Kaitou_Jeanne" />
+      <edge id="285" source="Kaichou_wa_Maid-sama!" target="Gakuen_Alice" />
+      <edge id="286" source="Kaichou_wa_Maid-sama!" target="Sukitte_Ii_na_yo." />
+      <edge id="287" source="Kaichou_wa_Maid-sama!" target="Kimi_ni_Todoke" />
+      <edge id="288" source="Kaichou_wa_Maid-sama!" target="Arakawa_Under_the_Bridge" />
+      <edge id="289" source="Kaichou_wa_Maid-sama!" target="Vampire_Knight" />
+      <edge id="290" source="Kaichou_wa_Maid-sama!" target="School_Rumble" />
+      <edge id="291" source="Kaichou_wa_Maid-sama!" target="Karin" />
+      <edge id="292" source="Kaichou_wa_Maid-sama!" target="Toradora!" />
+      <edge id="293" source="Kaichou_wa_Maid-sama!" target="Mayo_Chiki!" />
+      <edge id="294" source="Kaichou_wa_Maid-sama!" target="Peach_Girl" />
+      <edge id="295" source="Kaichou_wa_Maid-sama!" target="Skip_Beat!" />
+      <edge id="296" source="Kaichou_wa_Maid-sama!" target="Jungle_wa_Itsumo_Hare_nochi_Guu" />
+      <edge id="297" source="Kaichou_wa_Maid-sama!" target="Tokyo_Mew_Mew" />
+      <edge id="298" source="Kaichou_wa_Maid-sama!" target="Ookami-san_to_Shichinin_no_Nakamatachi" />
+      <edge id="299" source="Kaichou_wa_Maid-sama!" target="Kodomo_no_Omocha" />
+      <edge id="300" source="Kaichou_wa_Maid-sama!" target="Bokura_ga_Ita" />
+      <edge id="301" source="Kaichou_wa_Maid-sama!" target="Fruits_Basket" />
+      <edge id="302" source="Kaichou_wa_Maid-sama!" target="Kuragehime" />
+      <edge id="303" source="Kaichou_wa_Maid-sama!" target="Otome_Youkai_Zakuro" />
+      <edge id="304" source="Kaichou_wa_Maid-sama!" target="Ginban_Kaleidoscope" />
+      <edge id="305" source="Kaichou_wa_Maid-sama!" target="Yamato_Nadeshiko_Shichi_Henge" />
+      <edge id="306" source="Rurouni_Kenshin" target="Black_Cat" />
+      <edge id="307" source="Rurouni_Kenshin" target="Gintama" />
+      <edge id="308" source="Hakuouki" target="Saiyuki" />
+      <edge id="309" source="Hakuouki" target="Togainu_no_Chi" />
+      <edge id="310" source="Hakuouki" target="Gintama" />
+      <edge id="311" source="Persona_4_The_Animation" target="Darker_than_Black:_Kuro_no_Keiyakusha" />
+      <edge id="312" source="Persona_4_The_Animation" target="Hunter_x_Hunter" />
+      <edge id="313" source="Dragon_Ball" target="Saiyuki" />
+      <edge id="314" source="Dragon_Ball" target="Hunter_x_Hunter" />
+      <edge id="315" source="Sci-fi_Harry" target="Gantz" />
+      <edge id="316" source="Sci-fi_Harry" target="Darker_than_Black:_Kuro_no_Keiyakusha" />
+      <edge id="317" source="Sci-fi_Harry" target="Tiger_&amp;_Bunny" />
+      <edge id="318" source="One_Outs" target="Hunter_x_Hunter" />
+      <edge id="319" source="City_Hunter" target="Black_Cat" />
+      <edge id="320" source="City_Hunter" target="Gintama" />
+      <edge id="321" source="Jormungand" target="Black_Cat" />
+      <edge id="322" source="Jormungand" target="Darker_than_Black:_Kuro_no_Keiyakusha" />
+      <edge id="323" source="Jormungand" target="Dogs:_Bullets_&amp;_Carnage" />
+      <edge id="324" source="Samurai_Champloo" target="Zombie-Loan" />
+      <edge id="325" source="Samurai_Champloo" target="Darker_than_Black:_Kuro_no_Keiyakusha" />
+      <edge id="326" source="Samurai_Champloo" target="Gintama" />
+      <edge id="327" source="Towa_no_Quon_1:_Utakata_no_Kaben" target="Darker_than_Black:_Kuro_no_Keiyakusha" />
+      <edge id="328" source="Towa_no_Quon_1:_Utakata_no_Kaben" target="Tiger_&amp;_Bunny" />
+      <edge id="329" source="Cromartie_High_School" target="Gintama" />
+      <edge id="330" source="Rozen_Maiden" target="Zombie-Loan" />
+      <edge id="331" source="Hellsing" target="Devil_May_Cry" />
+      <edge id="332" source="Hikaru_no_Go" target="Hunter_x_Hunter" />
+      <edge id="333" source="Heroman" target="Tiger_&amp;_Bunny" />
+      <edge id="334" source="Soul_Hunter" target="Saiyuki" />
+      <edge id="335" source="Hyakka_Ryouran:_Samurai_Girls" target="Gintama" />
+      <edge id="336" source="Monkey_Typhoon" target="Saiyuki" />
+      <edge id="337" source="Witch_Hunter_Robin" target="Darker_than_Black:_Kuro_no_Keiyakusha" />
+      <edge id="338" source="Ghost_Hunt" target="Zombie-Loan" />
+      <edge id="339" source="Ghost_Hunt" target="Darker_than_Black:_Kuro_no_Keiyakusha" />
+      <edge id="340" source="Binbougami_ga!" target="Gintama" />
+      <edge id="341" source="Sayonara_Zetsubou_Sensei" target="Gintama" />
+      <edge id="342" source="Saiyuki" target="Mahou_Senshi_Louie" />
+      <edge id="343" source="Saiyuki" target="Bus_Gamer" />
+      <edge id="344" source="Saiyuki" target="Kuroshitsuji" />
+      <edge id="345" source="Saiyuki" target="Shiritsu_Araiso_Koutougakkou_Seitokai_Shikkoubu" />
+      <edge id="346" source="Saiyuki" target="Those_Who_Hunt_Elves_II" />
+      <edge id="347" source="Saiyuki" target="Mushrambo" />
+      <edge id="348" source="Saiyuki" target="Steins;Gate" />
+      <edge id="349" source="Saiyuki" target="Chrno_Crusade" />
+      <edge id="350" source="Saiyuki" target="Yu_Yu_Hakusho" />
+      <edge id="351" source="Saiyuki" target="Beet_the_Vandel_Buster" />
+      <edge id="352" source="Saiyuki" target="X" />
+      <edge id="353" source="Saiyuki" target="Hellsing_Ultimate" />
+      <edge id="354" source="Saiyuki" target="Kore_wa_Zombie_Desu_ka" />
+      <edge id="355" source="Saiyuki" target="Slayers" />
+      <edge id="356" source="Saiyuki" target="One_Piece" />
+      <edge id="357" source="Saiyuki" target="Gokusen" />
+      <edge id="358" source="Shikabane_Hime:_Aka" target="Zombie-Loan" />
+      <edge id="359" source="Shikabane_Hime:_Aka" target="Darker_than_Black:_Kuro_no_Keiyakusha" />
+      <edge id="360" source="Lucky_☆_Star" target="Gintama" />
+      <edge id="361" source="Guilty_Crown" target="Darker_than_Black:_Kuro_no_Keiyakusha" />
+      <edge id="362" source="Chobits" target="Darker_than_Black:_Kuro_no_Keiyakusha" />
+      <edge id="363" source="Steins;Gate" target="Darker_than_Black:_Kuro_no_Keiyakusha" />
+      <edge id="364" source="Steins;Gate" target="Gintama" />
+      <edge id="365" source="Black_Blood_Brothers" target="Devil_May_Cry" />
+      <edge id="366" source="Arakawa_Under_the_Bridge" target="Ookami-san_to_Shichinin_no_Nakamatachi" />
+      <edge id="367" source="Arakawa_Under_the_Bridge" target="Gintama" />
+      <edge id="368" source="No.6" target="Togainu_no_Chi" />
+      <edge id="369" source="No.6" target="Darker_than_Black:_Kuro_no_Keiyakusha" />
+      <edge id="370" source="No.6" target="Tiger_&amp;_Bunny" />
+      <edge id="371" source="School_Rumble" target="Gintama" />
+      <edge id="372" source="D.Gray-man" target="Devil_May_Cry" />
+      <edge id="373" source="D.Gray-man" target="Zombie-Loan" />
+      <edge id="374" source="D.Gray-man" target="Darker_than_Black:_Kuro_no_Keiyakusha" />
+      <edge id="375" source="Busou_Renkin" target="Black_Cat" />
+      <edge id="376" source="Busou_Renkin" target="Darker_than_Black:_Kuro_no_Keiyakusha" />
+      <edge id="377" source="Busou_Renkin" target="Hunter_x_Hunter" />
+      <edge id="378" source="Scryed" target="Darker_than_Black:_Kuro_no_Keiyakusha" />
+      <edge id="379" source="Kodomo_no_Omocha" target="Ookami-san_to_Shichinin_no_Nakamatachi" />
+      <edge id="380" source="Fruits_Basket" target="Zombie-Loan" />
+      <edge id="381" source="Zetman" target="Gantz" />
+      <edge id="382" source="Zetman" target="Darker_than_Black:_Kuro_no_Keiyakusha" />
+      <edge id="383" source="Zetman" target="Tiger_&amp;_Bunny" />
+      <edge id="384" source="Kyouran_Kazoku_Nikki" target="Gintama" />
+      <edge id="385" source="Rainbow:_Nisha_Rokubou_no_Shichinin" target="Btooom!" />
+      <edge id="386" source="Tantei_Gakuen_Q" target="Hunter_x_Hunter" />
+      <edge id="387" source="Toradora!" target="Ookami-san_to_Shichinin_no_Nakamatachi" />
+      <edge id="388" source="NightWalker" target="Devil_May_Cry" />
+      <edge id="389" source="Darker_than_Black:_Kuro_no_Keiyakusha" target="Speed_Grapher" />
+      <edge id="390" source="Darker_than_Black:_Kuro_no_Keiyakusha" target="Neon_Genesis_Evangelion" />
+      <edge id="391" source="Darker_than_Black:_Kuro_no_Keiyakusha" target="Eureka_Seven" />
+      <edge id="392" source="Darker_than_Black:_Kuro_no_Keiyakusha" target="Black_Cat" />
+      <edge id="393" source="Darker_than_Black:_Kuro_no_Keiyakusha" target="Zetsuen_no_Tempest" />
+      <edge id="394" source="Darker_than_Black:_Kuro_no_Keiyakusha" target="Katekyo_Hitman_Reborn!" />
+      <edge id="395" source="Darker_than_Black:_Kuro_no_Keiyakusha" target="Weiß_Kreuz_Glühen" />
+      <edge id="396" source="Darker_than_Black:_Kuro_no_Keiyakusha" target="Gungrave" />
+      <edge id="397" source="Darker_than_Black:_Kuro_no_Keiyakusha" target="Witchblade" />
+      <edge id="398" source="Darker_than_Black:_Kuro_no_Keiyakusha" target="Kara_no_Kyoukai_1:_Fukan_Fuukei" />
+      <edge id="399" source="Darker_than_Black:_Kuro_no_Keiyakusha" target="07-Ghost" />
+      <edge id="400" source="Darker_than_Black:_Kuro_no_Keiyakusha" target="Dogs:_Bullets_&amp;_Carnage" />
+      <edge id="401" source="Darker_than_Black:_Kuro_no_Keiyakusha" target="Solty_Rei" />
+      <edge id="402" source="Darker_than_Black:_Kuro_no_Keiyakusha" target="Bleach" />
+      <edge id="403" source="Darker_than_Black:_Kuro_no_Keiyakusha" target="R.O.D_the_TV" />
+      <edge id="404" source="Darker_than_Black:_Kuro_no_Keiyakusha" target="Fullmetal_Alchemist:_Brotherhood" />
+      <edge id="405" source="Darker_than_Black:_Kuro_no_Keiyakusha" target="Vampire_Knight_Guilty" />
+      <edge id="406" source="Darker_than_Black:_Kuro_no_Keiyakusha" target="Code_Geass:_Hangyaku_no_Lelouch_R2" />
+      <edge id="407" source="Darker_than_Black:_Kuro_no_Keiyakusha" target="Gilgamesh" />
+      <edge id="408" source="Darker_than_Black:_Kuro_no_Keiyakusha" target="Yumekui_Merry" />
+      <edge id="409" source="Darker_than_Black:_Kuro_no_Keiyakusha" target="The_Law_of_Ueki" />
+      <edge id="410" source="Darker_than_Black:_Kuro_no_Keiyakusha" target="Ghost_Hound" />
+      <edge id="411" source="Darker_than_Black:_Kuro_no_Keiyakusha" target="The_Big_O" />
+      <edge id="412" source="Darker_than_Black:_Kuro_no_Keiyakusha" target="Mnemosyne:_Mnemosyne_no_Musume-tachi" />
+      <edge id="413" source="Darker_than_Black:_Kuro_no_Keiyakusha" target="Casshern_Sins" />
+      <edge id="414" source="Darker_than_Black:_Kuro_no_Keiyakusha" target="Yozakura_Quartet" />
+      <edge id="415" source="Darker_than_Black:_Kuro_no_Keiyakusha" target="Iron_Man" />
+      <edge id="416" source="Darker_than_Black:_Kuro_no_Keiyakusha" target="Death_Note" />
+      <edge id="417" source="Darker_than_Black:_Kuro_no_Keiyakusha" target="Blood+" />
+      <edge id="418" source="Darker_than_Black:_Kuro_no_Keiyakusha" target="Shuffle!" />
+      <edge id="419" source="Darker_than_Black:_Kuro_no_Keiyakusha" target="Code:Breaker" />
+      <edge id="420" source="Darker_than_Black:_Kuro_no_Keiyakusha" target="Bounen_no_Xamdou" />
+      <edge id="421" source="Darker_than_Black:_Kuro_no_Keiyakusha" target="Night_Head_Genesis" />
+      <edge id="422" source="Darker_than_Black:_Kuro_no_Keiyakusha" target="Switch" />
+      <edge id="423" source="Darker_than_Black:_Kuro_no_Keiyakusha" target="Senkou_no_Night_Raid" />
+      <edge id="424" source="Darker_than_Black:_Kuro_no_Keiyakusha" target="Code_Geass:_Hangyaku_no_Lelouch" />
+      <edge id="425" source="Darker_than_Black:_Kuro_no_Keiyakusha" target="SoulTaker" />
+      <edge id="426" source="Darker_than_Black:_Kuro_no_Keiyakusha" target="UN-GO_episode:0_Inga-ron" />
+      <edge id="427" source="Darker_than_Black:_Kuro_no_Keiyakusha" target="Akira" />
+      <edge id="428" source="Darker_than_Black:_Kuro_no_Keiyakusha" target="HeatGuy_J" />
+      <edge id="429" source="Darker_than_Black:_Kuro_no_Keiyakusha" target="Gunslinger_Girl" />
+      <edge id="430" source="Darker_than_Black:_Kuro_no_Keiyakusha" target="Canaan" />
+      <edge id="431" source="Darker_than_Black:_Kuro_no_Keiyakusha" target="Tiger_&amp;_Bunny" />
+      <edge id="432" source="Darker_than_Black:_Kuro_no_Keiyakusha" target="Noir" />
+      <edge id="433" source="Darker_than_Black:_Kuro_no_Keiyakusha" target="Kuroshitsuji" />
+      <edge id="434" source="Darker_than_Black:_Kuro_no_Keiyakusha" target="Tokyo_Majin_Gakuen_Kenpucho:_Tou" />
+      <edge id="435" source="Darker_than_Black:_Kuro_no_Keiyakusha" target="Blassreiter" />
+      <edge id="436" source="Darker_than_Black:_Kuro_no_Keiyakusha" target="Monster" />
+      <edge id="437" source="Darker_than_Black:_Kuro_no_Keiyakusha" target="Fate" />
+      <edge id="438" source="Darker_than_Black:_Kuro_no_Keiyakusha" target="Ao_no_Exorcist" />
+      <edge id="439" source="Darker_than_Black:_Kuro_no_Keiyakusha" target="Gakuen_Alice" />
+      <edge id="440" source="Darker_than_Black:_Kuro_no_Keiyakusha" target="Cowboy_Bebop" />
+      <edge id="441" source="Darker_than_Black:_Kuro_no_Keiyakusha" target="Shakugan_no_Shana" />
+      <edge id="442" source="Darker_than_Black:_Kuro_no_Keiyakusha" target="Fullmetal_Alchemist" />
+      <edge id="443" source="Darker_than_Black:_Kuro_no_Keiyakusha" target="Karas" />
+      <edge id="444" source="Darker_than_Black:_Kuro_no_Keiyakusha" target="Trigun" />
+      <edge id="445" source="Darker_than_Black:_Kuro_no_Keiyakusha" target="Baccano!" />
+      <edge id="446" source="Darker_than_Black:_Kuro_no_Keiyakusha" target="R.O.D_OVA" />
+      <edge id="447" source="Darker_than_Black:_Kuro_no_Keiyakusha" target="Ergo_Proxy" />
+      <edge id="448" source="Solty_Rei" target="Black_Cat" />
+      <edge id="449" source="Gakuen_Alice" target="Tiger_&amp;_Bunny" />
+      <edge id="450" source="Cowboy_Bebop" target="Devil_May_Cry" />
+      <edge id="451" source="Cowboy_Bebop" target="Black_Cat" />
+      <edge id="452" source="Cowboy_Bebop" target="Gintama" />
+      <edge id="453" source="Druaga_no_Tou:_The_Aegis_of_Uruk" target="Hunter_x_Hunter" />
+      <edge id="454" source="Flame_of_Recca" target="Hunter_x_Hunter" />
+      <edge id="455" source="Level_E" target="Gintama" />
+      <edge id="456" source="Level_E" target="Hunter_x_Hunter" />
+      <edge id="457" source="Irresponsible_Captain_Tylor" target="Gintama" />
+      <edge id="458" source="Shigurui" target="Gantz" />
+      <edge id="459" source="Angel_Heart" target="Black_Cat" />
+      <edge id="460" source="Qin_Shi_Ming_Yue" target="Gintama" />
+      <edge id="461" source="Mayo_Chiki!" target="Ookami-san_to_Shichinin_no_Nakamatachi" />
+      <edge id="462" source="Spriggan" target="Black_Cat" />
+      <edge id="463" source="Inu_x_Boku_SS" target="Ookami-san_to_Shichinin_no_Nakamatachi" />
+      <edge id="464" source="Gun_x_Sword" target="Devil_May_Cry" />
+      <edge id="465" source="Gun_x_Sword" target="Black_Cat" />
+      <edge id="466" source="Neon_Genesis_Evangelion" target="Gantz" />
+      <edge id="467" source="Arcana_Famiglia" target="Black_Cat" />
+      <edge id="468" source="Arcana_Famiglia" target="Zombie-Loan" />
+      <edge id="469" source="Seikimatsu_Occult_Gakuin" target="Ookami-san_to_Shichinin_no_Nakamatachi" />
+      <edge id="470" source="Tono_to_Issho" target="Gintama" />
+      <edge id="471" source="Black_Cat" target="Speed_Grapher" />
+      <edge id="472" source="Black_Cat" target="Sunabouzu" />
+      <edge id="473" source="Black_Cat" target="King_of_Bandit_Jing" />
+      <edge id="474" source="Black_Cat" target="Grenadier" />
+      <edge id="475" source="Black_Cat" target="Trigun" />
+      <edge id="476" source="Black_Cat" target="Tegami_Bachi" />
+      <edge id="477" source="Black_Cat" target="Es_Otherwise" />
+      <edge id="478" source="Black_Cat" target="El_Cazador_de_la_Bruja" />
+      <edge id="479" source="Black_Cat" target="Fate" />
+      <edge id="480" source="Black_Cat" target="Zombie-Loan" />
+      <edge id="481" source="Black_Cat" target="Hunter_x_Hunter_(2011)" />
+      <edge id="482" source="Black_Cat" target="R.O.D_the_TV" />
+      <edge id="483" source="Black_Cat" target="Bleach" />
+      <edge id="484" source="Black_Cat" target="Outlaw_Star" />
+      <edge id="485" source="Black_Cat" target="Code:Breaker" />
+      <edge id="486" source="Black_Cat" target="Chrno_Crusade" />
+      <edge id="487" source="Black_Cat" target="Toaru_Majutsu_no_Index" />
+      <edge id="488" source="Black_Cat" target="Yu_Yu_Hakusho" />
+      <edge id="489" source="Black_Cat" target="Kiddy_Grade" />
+      <edge id="490" source="Black_Cat" target="Katekyo_Hitman_Reborn!" />
+      <edge id="491" source="Black_Cat" target="Baccano!" />
+      <edge id="492" source="Black_Cat" target="Gunslinger_Girl" />
+      <edge id="493" source="Black_Cat" target="Canaan" />
+      <edge id="494" source="Black_Cat" target="Tengen_Toppa_Gurren_Lagann" />
+      <edge id="495" source="Fairy_Tail" target="Gintama" />
+      <edge id="496" source="Gyo" target="Gantz" />
+      <edge id="497" source="Saraiya_Goyou" target="Gintama" />
+      <edge id="498" source="Mardock_Scramble:_The_First_Compression" target="Dogs:_Bullets_&amp;_Carnage" />
+      <edge id="499" source="Supernatural_The_Animation" target="Devil_May_Cry" />
+      <edge id="500" source="FLCL" target="Gintama" />
+      <edge id="501" source="Kakurenbo" target="Gantz" />
+      <edge id="502" source="Kikoushi_Enma" target="Devil_May_Cry" />
+      <edge id="503" source="Keroro_Gunsou" target="Gintama" />
+      <edge id="504" source="Batman:_Gotham_Knight" target="Btooom!" />
+      <edge id="505" source="Hayate_no_Gotoku!!" target="Ookami-san_to_Shichinin_no_Nakamatachi" />
+      <edge id="506" source="Druaga_no_Tou:_The_Sword_of_Uruk" target="Hunter_x_Hunter" />
+      <edge id="507" source="Uchuu_Kyoudai" target="Tiger_&amp;_Bunny" />
+      <edge id="508" source="Higurashi_no_Naku_Koro_ni" target="Devil_May_Cry" />
+      <edge id="509" source="Higurashi_no_Naku_Koro_ni" target="Gantz" />
+      <edge id="510" source="Otogi-jushi_Akazukin" target="Ookami-san_to_Shichinin_no_Nakamatachi" />
+      <edge id="511" source="Mouretsu_Pirates" target="Gintama" />
+      <edge id="512" source="Blue_Gender" target="Gantz" />
+      <edge id="513" source="Bleach" target="Devil_May_Cry" />
+      <edge id="514" source="Bleach" target="Gintama" />
+      <edge id="515" source="Bleach" target="Zombie-Loan" />
+      <edge id="516" source="Bleach" target="Hunter_x_Hunter" />
+      <edge id="517" source="Dr._Slump:_Arale-chan" target="Gintama" />
+      <edge id="518" source="Tokko" target="Devil_May_Cry" />
+      <edge id="519" source="Tokko" target="Gantz" />
+      <edge id="520" source="Welcome_to_the_NHK!" target="Ookami-san_to_Shichinin_no_Nakamatachi" />
+      <edge id="521" source="Welcome_to_the_NHK!" target="Gintama" />
+      <edge id="522" source="C" target="Gantz" />
+      <edge id="523" source="Final_Fantasy_VII:_Advent_Children" target="Devil_May_Cry" />
+      <edge id="524" source="Hunter_x_Hunter" target="Tegami_Bachi" />
+      <edge id="525" source="Hunter_x_Hunter" target="Yakitate!!_Japan" />
+      <edge id="526" source="Hunter_x_Hunter" target="Dragon_Ball_Z" />
+      <edge id="527" source="Hunter_x_Hunter" target="Magi" />
+      <edge id="528" source="Hunter_x_Hunter" target="Death_Note" />
+      <edge id="529" source="Hunter_x_Hunter" target="Fullmetal_Alchemist" />
+      <edge id="530" source="Hunter_x_Hunter" target="Shaman_King" />
+      <edge id="531" source="Hunter_x_Hunter" target="Yu_Yu_Hakusho" />
+      <edge id="532" source="Hunter_x_Hunter" target="Beet_the_Vandel_Buster" />
+      <edge id="533" source="Hunter_x_Hunter" target="Angelic_Layer" />
+      <edge id="534" source="Hunter_x_Hunter" target="Samurai_Deeper_Kyo" />
+      <edge id="535" source="Hunter_x_Hunter" target="Katekyo_Hitman_Reborn!" />
+      <edge id="536" source="Hunter_x_Hunter" target="Soul_Eater" />
+      <edge id="537" source="Hunter_x_Hunter" target="One_Piece" />
+      <edge id="538" source="Hunter_x_Hunter" target="Pokemon" />
+      <edge id="539" source="Hunter_x_Hunter" target="The_Law_of_Ueki" />
+      <edge id="540" source="SKET_Dance" target="Ookami-san_to_Shichinin_no_Nakamatachi" />
+      <edge id="541" source="SKET_Dance" target="Gintama" />
+      <edge id="542" source="Otome_Youkai_Zakuro" target="Ookami-san_to_Shichinin_no_Nakamatachi" />
+      <edge id="543" source="Historys_Strongest_Disciple_Kenichi" target="Gintama" />
+      <edge id="544" source="Ghost_Hound" target="Zombie-Loan" />
+      <edge id="545" source="Asu_no_Yoichi!" target="Gintama" />
+      <edge id="546" source="The_Big_O" target="Tiger_&amp;_Bunny" />
+      <edge id="547" source="Shakugan_no_Shana" target="Ookami-san_to_Shichinin_no_Nakamatachi" />
+      <edge id="548" source="Shakugan_no_Shana" target="Zombie-Loan" />
+      <edge id="549" source="Hellsing_Ultimate" target="Gantz" />
+      <edge id="550" source="Hellsing_Ultimate" target="Devil_May_Cry" />
+      <edge id="551" source="Yondemasu_yo_Azazel-san._(TV)" target="Gintama" />
+      <edge id="552" source="Trigun" target="Gintama" />
+      <edge id="553" source="Mnemosyne:_Mnemosyne_no_Musume-tachi" target="Devil_May_Cry" />
+      <edge id="554" source="Mnemosyne:_Mnemosyne_no_Musume-tachi" target="Zombie-Loan" />
+      <edge id="555" source="Mnemosyne:_Mnemosyne_no_Musume-tachi" target="Switch" />
+      <edge id="556" source="Tengen_Toppa_Gurren_Lagann" target="Tiger_&amp;_Bunny" />
+      <edge id="557" source="Tonari_no_Kaibutsu-kun" target="Gintama" />
+      <edge id="558" source="Death_Note" target="Btooom!" />
+      <edge id="559" source="Death_Note" target="Switch" />
+      <edge id="560" source="Death_Note" target="Gantz" />
+      <edge id="561" source="Death_Note" target="Zombie-Loan" />
+      <edge id="562" source="Peace_Maker_Kurogane" target="Gintama" />
+      <edge id="563" source="Blood+" target="Devil_May_Cry" />
+      <edge id="564" source="Code:Breaker" target="Zombie-Loan" />
+      <edge id="565" source="Switch" target="Bus_Gamer" />
+      <edge id="566" source="Switch" target="Dogs:_Bullets_&amp;_Carnage" />
+      <edge id="567" source="Vampire_Knight" target="Devil_May_Cry" />
+      <edge id="568" source="Vampire_Knight" target="Zombie-Loan" />
+      <edge id="569" source="Muteki_Kanban_Musume" target="Ookami-san_to_Shichinin_no_Nakamatachi" />
+      <edge id="570" source="Muteki_Kanban_Musume" target="Gintama" />
+      <edge id="571" source="Maria-sama_ga_Miteru" target="Ookami-san_to_Shichinin_no_Nakamatachi" />
+      <edge id="572" source="HeatGuy_J" target="Tiger_&amp;_Bunny" />
+      <edge id="573" source="Yamato_Nadeshiko_Shichi_Henge" target="Gintama" />
+      <edge id="574" source="Mars_of_Destruction" target="Gantz" />
+      <edge id="575" source="Ixion_Saga_DT" target="Btooom!" />
+      <edge id="576" source="Uragiri_wa_Boku_no_Namae_wo_Shitteiru" target="Togainu_no_Chi" />
+      <edge id="577" source="Uragiri_wa_Boku_no_Namae_wo_Shitteiru" target="Zombie-Loan" />
+      <edge id="578" source="Dai-Guard" target="Tiger_&amp;_Bunny" />
+      <edge id="579" source="Kuroshitsuji" target="Devil_May_Cry" />
+      <edge id="580" source="Kuroshitsuji" target="Zombie-Loan" />
+      <edge id="581" source="Tokyo_Majin_Gakuen_Kenpucho:_Tou" target="Gantz" />
+      <edge id="582" source="Tokyo_Majin_Gakuen_Kenpucho:_Tou" target="Zombie-Loan" />
+      <edge id="583" source="Outlaw_Star" target="Devil_May_Cry" />
+      <edge id="584" source="Devil_May_Cry" target="Berserk" />
+      <edge id="585" source="Devil_May_Cry" target="Gintama" />
+      <edge id="586" source="Devil_May_Cry" target="Zombie-Loan" />
+      <edge id="587" source="Devil_May_Cry" target="Iron_Man" />
+      <edge id="588" source="Devil_May_Cry" target="Phantom_Quest_Corp." />
+      <edge id="589" source="Devil_May_Cry" target="Karas" />
+      <edge id="590" source="Devil_May_Cry" target="Gungrave" />
+      <edge id="591" source="Devil_May_Cry" target="Akira" />
+      <edge id="592" source="Devil_May_Cry" target="Togainu_no_Chi" />
+      <edge id="593" source="Devil_May_Cry" target="Soul_Eater" />
+      <edge id="594" source="Devil_May_Cry" target="Ao_no_Exorcist" />
+      <edge id="595" source="Dogs:_Bullets_&amp;_Carnage" target="Gungrave" />
+      <edge id="596" source="Dogs:_Bullets_&amp;_Carnage" target="Bus_Gamer" />
+      <edge id="597" source="Dogs:_Bullets_&amp;_Carnage" target="Baccano!" />
+      <edge id="598" source="Dogs:_Bullets_&amp;_Carnage" target="Togainu_no_Chi" />
+      <edge id="599" source="Dogs:_Bullets_&amp;_Carnage" target="Soul_Eater" />
+      <edge id="600" source="Inukami!" target="Gintama" />
+      <edge id="601" source="Karas" target="Tiger_&amp;_Bunny" />
+      <edge id="602" source="One_Piece" target="Gintama" />
+      <edge id="603" source="Akira" target="Tiger_&amp;_Bunny" />
+      <edge id="604" source="Togainu_no_Chi" target="Bus_Gamer" />
+      <edge id="605" source="Togainu_no_Chi" target="Highschool_of_the_Dead" />
+      <edge id="606" source="Togainu_no_Chi" target="Zombie-Loan" />
+      <edge id="607" source="Mushishi" target="Gintama" />
+      <edge id="608" source="Nichijou" target="Gintama" />
+      <edge id="609" source="Soul_Eater" target="Zombie-Loan" />
+      <edge id="610" source="Soul_Eater" target="Gintama" />
+      <edge id="611" source="Jungle_wa_Itsumo_Hare_nochi_Guu" target="Gintama" />
+      <edge id="612" source="Zombie-Loan" target="Yami_no_Matsuei" />
+      <edge id="613" source="Zombie-Loan" target="Gakkou_no_Kaidan" />
+      <edge id="614" source="Zombie-Loan" target="Hatenkou_Yuugi" />
+      <edge id="615" source="Zombie-Loan" target="Bus_Gamer" />
+      <edge id="616" source="Zombie-Loan" target="xxxHOLiC" />
+      <edge id="617" source="Zombie-Loan" target="Air_Gear" />
+      <edge id="618" source="Zombie-Loan" target="Ao_no_Exorcist" />
+      <edge id="619" source="Zombie-Loan" target="Highschool_of_the_Dead" />
+      <edge id="620" source="Zombie-Loan" target="Ouran_Koukou_Host_Club" />
+      <edge id="621" source="Zombie-Loan" target="Akikan!" />
+      <edge id="622" source="Zombie-Loan" target="Sankarea" />
+      <edge id="623" source="Zombie-Loan" target="Kore_wa_Zombie_Desu_ka" />
+      <edge id="624" source="Speed_Grapher" target="Gantz" />
+      <edge id="625" source="Ouran_Koukou_Host_Club" target="Ookami-san_to_Shichinin_no_Nakamatachi" />
+      <edge id="626" source="Ouran_Koukou_Host_Club" target="Gintama" />
+      <edge id="627" source="Mononoke_Hime" target="Ookami-san_to_Shichinin_no_Nakamatachi" />
+      <edge id="628" source="Air_Gear" target="Gantz" />
+      <edge id="629" source="Kannagi" target="Ookami-san_to_Shichinin_no_Nakamatachi" />
+      <edge id="630" source="Hetalia_Axis_Powers" target="Gintama" />
+      <edge id="631" source="Goku_Sayonara_Zetsubou_Sensei" target="Gintama" />
+      <edge id="632" source="Princess_Tutu" target="Ookami-san_to_Shichinin_no_Nakamatachi" />
+      <edge id="633" source="Great_Teacher_Onizuka" target="Gintama" />
+      <edge id="634" source="Bus_Gamer" target="Btooom!" />
+      <edge id="635" source="Bus_Gamer" target="Gantz" />
+      <edge id="636" source="Tears_to_Tiara" target="Gintama" />
+      <edge id="637" source="Katekyo_Hitman_Reborn!" target="Gintama" />
+      <edge id="638" source="Kite" target="Gantz" />
+      <edge id="639" source="Witchblade" target="Tiger_&amp;_Bunny" />
+      <edge id="640" source="Working!!" target="Ookami-san_to_Shichinin_no_Nakamatachi" />
+      <edge id="641" source="Berserk" target="Gantz" />
+      <edge id="642" source="Highschool_of_the_Dead" target="Gantz" />
+      <edge id="643" source="Kimi_ni_Todoke" target="Ookami-san_to_Shichinin_no_Nakamatachi" />
+      <edge id="644" source="Toaru_Majutsu_no_Index_II" target="Tiger_&amp;_Bunny" />
+      <edge id="645" source="Minami-ke" target="Gintama" />
+      <edge id="646" source="Gantz" target="Sword_Art_Online" />
+      <edge id="647" source="Gantz" target="Ichi_The_Killer:_Episode_0" />
+      <edge id="648" source="Gantz" target="Mahou_Shoujo_Madoka★Magica" />
+      <edge id="649" source="Gantz" target="Mirai_Nikki_(TV)" />
+      <edge id="650" source="Gantz" target="Bokurano" />
+      <edge id="651" source="Gantz" target="Btooom!" />
+      <edge id="652" source="Sword_Art_Online" target="Ookami-san_to_Shichinin_no_Nakamatachi" />
+      <edge id="653" source="Sword_Art_Online" target="Btooom!" />
+      <edge id="654" source="Panty_&amp;_Stocking_with_Garterbelt" target="Tiger_&amp;_Bunny" />
+      <edge id="655" source="Basquash!" target="Tiger_&amp;_Bunny" />
+      <edge id="656" source="Gyagu_Manga_Biyori" target="Gintama" />
+      <edge id="657" source="Iron_Man" target="Tiger_&amp;_Bunny" />
+      <edge id="658" source="Excel_Saga" target="Gintama" />
+      <edge id="659" source="Toaru_Majutsu_no_Index" target="Tiger_&amp;_Bunny" />
+      <edge id="660" source="Papuwa" target="Gintama" />
+      <edge id="661" source="Ookami-san_to_Shichinin_no_Nakamatachi" target="Zero_no_Tsukaima" />
+      <edge id="662" source="Ookami-san_to_Shichinin_no_Nakamatachi" target="Bakemonogatari" />
+      <edge id="663" source="Ookami-san_to_Shichinin_no_Nakamatachi" target="Mayoi_Neko_Overrun!" />
+      <edge id="664" source="Tiger_&amp;_Bunny" target="Ao_no_Exorcist" />
+      <edge id="665" source="Danshi_Koukousei_no_Nichijou" target="Gintama" />
+      <edge id="666" source="Yakitate!!_Japan" target="Gintama" />
+      <edge id="667" source="Dai_Mahou_Touge" target="Gintama" />
+      <edge id="668" source="Seto_no_Hanayome" target="Gintama" />
+      <edge id="669" source="Mirai_Nikki_(TV)" target="Btooom!" />
+      <edge id="670" source="Bobobo-bo_Bo-bobo" target="Gintama" />
+      <edge id="671" source="School_Rumble_Ni_Gakki" target="Gintama" />
+      <edge id="672" source="Gintama" target="Baccano!" />
+    </edges>
+  </graph>
+</gexf>
